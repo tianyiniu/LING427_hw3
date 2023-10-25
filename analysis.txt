@@ -1,0 +1,688 @@
+Language Family: Guaicuruan
+	('Strongly suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Weakly prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Northwest Caucasian
+	('Equal prefixing and suffixing', 'SOV'): 3
+
+Language Family: Greater West Bomberai
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 2
+
+Language Family: Abun
+	('Little affixation', 'SVO'): 1
+
+Language Family: Austronesian
+	('Little affixation', 'No dominant order'): 8
+	('Strongly suffixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'SOV'): 4
+	('Equal prefixing and suffixing', 'SVO'): 6
+	('Little affixation', 'SVO'): 27
+	('Weakly prefixing', 'SVO'): 14
+	('Equal prefixing and suffixing', 'VOS'): 3
+	('Strongly suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 3
+	('Little affixation', 'VSO'): 12
+	('Little affixation', 'VOS'): 3
+	('Strongly suffixing', 'SVO'): 2
+	('Weakly prefixing', 'SOV'): 4
+	('Strong prefixing', 'SVO'): 2
+	('Weakly prefixing', 'No dominant order'): 2
+	('Weakly suffixing', 'SOV'): 3
+	('Strong prefixing', 'VSO'): 1
+	('Weakly suffixing', 'SVO'): 3
+	('Strongly suffixing', 'SOV'): 1
+	('Strong prefixing', 'VOS'): 1
+	('Weakly prefixing', 'VSO'): 1
+	('Weakly prefixing', 'VOS'): 1
+	('Equal prefixing and suffixing', 'VSO'): 1
+
+Language Family: Arawakan
+	('Equal prefixing and suffixing', 'SVO'): 4
+	('Weakly suffixing', 'SVO'): 2
+	('Weakly suffixing', 'VOS'): 1
+	('Strongly suffixing', 'No dominant order'): 1
+	('Weakly suffixing', 'VSO'): 1
+	('Strongly suffixing', 'SVO'): 1
+	('Weakly suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+
+Language Family: Eastern Sudanic
+	('Equal prefixing and suffixing', 'SVO'): 5
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'SVO'): 2
+	('Strongly suffixing', 'VSO'): 3
+	('Little affixation', 'No dominant order'): 1
+	('Weakly suffixing', 'SVO'): 3
+	('Weakly prefixing', 'VSO'): 2
+	('Strongly suffixing', 'SVO'): 2
+	('Weakly suffixing', 'VSO'): 4
+	('Equal prefixing and suffixing', 'VSO'): 1
+	('Strongly suffixing', 'SOV'): 3
+	('Strongly suffixing', 'No dominant order'): 1
+	('Weakly suffixing', 'OVS'): 1
+	('Weakly suffixing', 'SOV'): 1
+	('Strong prefixing', 'VSO'): 2
+
+Language Family: Keresan
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'No dominant order'): 1
+
+Language Family: Niger-Congo
+	('Weakly prefixing', 'SVO'): 6
+	('Strong prefixing', 'SVO'): 28
+	('Little affixation', 'SVO'): 12
+	('Weakly prefixing', 'No dominant order'): 1
+	('Strongly suffixing', 'SVO'): 8
+	('Weakly suffixing', 'SVO'): 5
+	('Equal prefixing and suffixing', 'SVO'): 9
+	('Weakly suffixing', 'No dominant order'): 1
+	('Strong prefixing', 'No dominant order'): 1
+	('Weakly suffixing', 'SOV'): 2
+
+Language Family: Pama-Nyungan
+	('Strongly suffixing', 'No dominant order'): 14
+	('Strongly suffixing', 'SOV'): 16
+	('Strongly suffixing', 'SVO'): 6
+	('Little affixation', 'SOV'): 1
+	('Strongly suffixing', 'VOS'): 1
+
+Language Family: Trans-New Guinea
+	('Weakly suffixing', 'SOV'): 7
+	('Strongly suffixing', 'SOV'): 32
+	('Equal prefixing and suffixing', 'SOV'): 2
+
+Language Family: Ainu
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Sino-Tibetan
+	('Little affixation', 'SOV'): 11
+	('Weakly suffixing', 'SOV'): 7
+	('Strongly suffixing', 'SOV'): 25
+	('Little affixation', 'SVO'): 4
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Weakly prefixing', 'SVO'): 1
+	('Strongly suffixing', 'SVO'): 1
+
+Language Family: Sepik
+	('Strongly suffixing', 'SOV'): 2
+	('Weakly suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Mangarrayi-Maran
+	('Strongly suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'OVS'): 1
+	('Weakly prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Indo-European
+	('Strongly suffixing', 'SVO'): 20
+	('Strongly suffixing', 'No dominant order'): 7
+	('Strongly suffixing', 'SOV'): 15
+	('Weakly suffixing', 'SVO'): 3
+	('Weakly suffixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'VSO'): 1
+	('Weakly suffixing', 'SOV'): 3
+	('Strongly suffixing', 'VSO'): 1
+
+Language Family: Eskimo-Aleut
+	('Strongly suffixing', 'SOV'): 2
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Pano-Tacanan
+	('Strongly suffixing', 'No dominant order'): 3
+	('Strongly suffixing', 'SOV'): 3
+	('Little affixation', 'SOV'): 1
+
+Language Family: Border
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Afro-Asiatic
+	('Weakly suffixing', 'SOV'): 3
+	('Little affixation', 'SVO'): 4
+	('Weakly suffixing', 'SVO'): 4
+	('Equal prefixing and suffixing', 'SVO'): 4
+	('Strongly suffixing', 'VSO'): 3
+	('Weakly suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'VSO'): 2
+	('Weakly prefixing', 'SVO'): 2
+	('Strongly suffixing', 'No dominant order'): 2
+	('Strongly suffixing', 'SVO'): 10
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Strongly suffixing', 'SOV'): 10
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'No dominant order'): 1
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Senagi
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Gunwinyguan
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Weakly prefixing', 'No dominant order'): 1
+	('Weakly suffixing', 'No dominant order'): 1
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Na-Dene
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Strong prefixing', 'SOV'): 3
+	('Weakly prefixing', 'No dominant order'): 1
+	('Weakly prefixing', 'SOV'): 1
+
+Language Family: Cariban
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'OVS'): 2
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Torricelli
+	('Weakly prefixing', 'SVO'): 4
+	('Weakly prefixing', 'SOV'): 1
+	('Little affixation', 'SVO'): 2
+	('Weakly suffixing', 'SVO'): 1
+
+Language Family: Nakh-Daghestanian
+	('Strongly suffixing', 'SOV'): 7
+	('Weakly suffixing', 'SOV'): 2
+
+Language Family: Asmat-Kamrau Bay
+	('Strongly suffixing', 'SOV'): 1
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Barbacoan
+	('Strongly suffixing', 'SOV'): 2
+
+Language Family: Aymaran
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Altaic
+	('Strongly suffixing', 'SOV'): 23
+
+Language Family: Wandjiginy
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Central Sudanic
+	('Weakly suffixing', 'SVO'): 2
+	('Weakly prefixing', 'SVO'): 3
+	('Little affixation', 'SVO'): 3
+	('Strongly suffixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Weakly prefixing', 'No dominant order'): 1
+	('Little affixation', 'No dominant order'): 1
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Mande
+	('Strongly suffixing', 'SOV'): 2
+	('Little affixation', 'SOV'): 4
+
+Language Family: Tucanoan
+	('Strongly suffixing', 'No dominant order'): 1
+	('Strongly suffixing', 'OVS'): 1
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Skou
+	('Weakly prefixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 1
+	('Little affixation', 'No dominant order'): 1
+
+Language Family: Basque
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Salishan
+	('Strongly suffixing', 'VSO'): 2
+	('Weakly prefixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Saharan
+	('Weakly suffixing', 'SOV'): 1
+	('Strongly suffixing', 'SOV'): 3
+
+Language Family: Berta
+	('Weakly suffixing', 'SVO'): 1
+
+Language Family: Betoi
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Dravidian
+	('Strongly suffixing', 'SOV'): 8
+
+Language Family: Siouan
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Weakly prefixing', 'SOV'): 1
+	('Weakly suffixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 1
+
+Language Family: Solomons East Papuan
+	('Weakly suffixing', 'No dominant order'): 1
+	('Weakly suffixing', 'SOV'): 1
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Algic
+	('Weakly prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Strongly suffixing', 'No dominant order'): 1
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Chibchan
+	('Strongly suffixing', 'SOV'): 2
+	('Weakly suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Hmong-Mien
+	('Little affixation', 'SVO'): 3
+
+Language Family: Mangrida
+	('Weakly prefixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Burushaski
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Uto-Aztecan
+	('Equal prefixing and suffixing', 'SOV'): 4
+	('Strongly suffixing', 'No dominant order'): 4
+	('Strongly suffixing', 'SOV'): 8
+	('Weakly suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'VSO'): 2
+	('Weakly prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+
+Language Family: Camsá
+	('Weakly prefixing', 'No dominant order'): 1
+
+Language Family: Macro-Ge
+	('Little affixation', 'SOV'): 1
+
+Language Family: Cayuvava
+	('Weakly prefixing', 'VOS'): 1
+
+Language Family: Iroquoian
+	('Weakly prefixing', 'No dominant order'): 4
+
+Language Family: Oto-Manguean
+	('Strong prefixing', 'VSO'): 2
+	('Little affixation', 'VOS'): 1
+	('Equal prefixing and suffixing', 'VSO'): 8
+	('Weakly suffixing', 'No dominant order'): 1
+	('Little affixation', 'VSO'): 1
+	('Weakly prefixing', 'VSO'): 1
+	('Strong prefixing', 'SVO'): 1
+	('Weakly prefixing', 'VOS'): 1
+	('Weakly prefixing', 'SVO'): 1
+
+Language Family: Penutian
+	('Weakly prefixing', 'VOS'): 1
+	('Strongly suffixing', 'No dominant order'): 7
+	('Weakly suffixing', 'VSO'): 1
+	('Strongly suffixing', 'SOV'): 1
+	('Strongly suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Uru-Chipaya
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Chitimacha
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Muskogean
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Weakly suffixing', 'SOV'): 2
+
+Language Family: Hobitu-Cholon
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Mayan
+	('Strongly suffixing', 'SVO'): 1
+	('Little affixation', 'SVO'): 1
+	('Strong prefixing', 'VSO'): 2
+	('Strongly suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'VOS'): 1
+	('Strong prefixing', 'No dominant order'): 1
+
+Language Family: Austro-Asiatic
+	('Little affixation', 'SVO'): 8
+	('Little affixation', 'No dominant order'): 1
+	('Strongly suffixing', 'SOV'): 3
+	('Strongly suffixing', 'VOS'): 1
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Chukotko-Kamchatkan
+	('Weakly suffixing', 'No dominant order'): 1
+	('Strongly suffixing', 'SOV'): 1
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Chumash
+	('Equal prefixing and suffixing', 'VOS'): 1
+
+Language Family: Coahuiltecan
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Tupian
+	('Strongly suffixing', 'SVO'): 1
+	('Strong prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SOV'): 3
+	('Little affixation', 'SOV'): 2
+	('Weakly prefixing', 'SOV'): 2
+
+Language Family: Oregon Coast
+	('Weakly suffixing', 'No dominant order'): 1
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Hokan
+	('Weakly prefixing', 'SOV'): 2
+	('Weakly suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Strongly suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Strong prefixing', 'SOV'): 1
+
+Language Family: Mirndi
+	('Strongly suffixing', 'SOV'): 1
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Dogon
+	('Strongly suffixing', 'SOV'): 2
+
+Language Family: Duna-Bogaya
+	('Little affixation', 'SOV'): 1
+
+Language Family: Uralic
+	('Strongly suffixing', 'SOV'): 8
+	('Strongly suffixing', 'SVO'): 4
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Choco
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Teberan-Pawaian
+	('Strongly suffixing', 'SOV'): 2
+
+Language Family: Fur
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Garrwan
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Kartvelian
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Bunuban
+	('Weakly prefixing', 'No dominant order'): 1
+
+Language Family: Gumuz
+	('Weakly suffixing', 'SVO'): 1
+
+Language Family: Worrorran
+	('Weakly prefixing', 'No dominant order'): 1
+	('Little affixation', 'OVS'): 1
+
+Language Family: Chonan
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Haida
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Hatim-Mansim
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Huavean
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Witotoan
+	('Strongly suffixing', 'SOV'): 2
+
+Language Family: Nadahup
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Ijoid
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: South Bird's Head
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Zaparoan
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Weakly suffixing', 'SVO'): 1
+
+Language Family: Iranxe
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Japanese
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Cahuapanan
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Jivaroan
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Kxa
+	('Little affixation', 'SVO'): 1
+
+Language Family: Kadu
+	('Weakly prefixing', 'SVO'): 1
+	('Weakly prefixing', 'VSO'): 1
+
+Language Family: Kordofanian
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Weakly prefixing', 'SVO'): 2
+	('Weakly prefixing', 'SOV'): 1
+
+Language Family: Tangkic
+	('Strongly suffixing', 'No dominant order'): 1
+	('Strongly suffixing', 'SVO'): 1
+
+Language Family: Yeniseian
+	('Weakly prefixing', 'SOV'): 1
+
+Language Family: Kolopom
+	('Little affixation', 'SOV'): 1
+
+Language Family: Kiowa-Tanoan
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Kariri
+	('Equal prefixing and suffixing', 'VOS'): 1
+
+Language Family: Koman
+	('Weakly suffixing', 'SVO'): 1
+
+Language Family: Khoe-Kwadi
+	('Strongly suffixing', 'No dominant order'): 1
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Korean
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Songhay
+	('Little affixation', 'SVO'): 1
+	('Little affixation', 'SOV'): 1
+
+Language Family: Kunama
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Kuot
+	('Equal prefixing and suffixing', 'VSO'): 1
+
+Language Family: Kutenai
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Kwaza
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Kwomtari
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Laal
+	('Strongly suffixing', 'SVO'): 1
+
+Language Family: Tai-Kadai
+	('Little affixation', 'SVO'): 4
+
+Language Family: Leko
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Maban
+	('Weakly suffixing', 'SOV'): 1
+	('Strongly suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Wakashan
+	('Little affixation', 'VSO'): 1
+
+Language Family: Araucanian
+	('Strongly suffixing', 'SVO'): 1
+
+Language Family: Western Daly
+	('Little affixation', 'SOV'): 1
+
+Language Family: Iwaidjan
+	('Weakly prefixing', 'SVO'): 1
+
+Language Family: Maybrat
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Eastern Trans-Fly
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: East Bird's Head
+	('Weakly prefixing', 'SVO'): 1
+
+Language Family: Misumalpan
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Baibai-Fas
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Yale
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Nambikuaran
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: South Bougainville
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: other
+	('Little affixation', 'SVO'): 1
+
+Language Family: Tsimshianic
+	('Little affixation', 'VSO'): 1
+	('Weakly suffixing', 'VSO'): 1
+
+Language Family: Nivkh
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: South Andamanese
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Arauan
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Mura
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Mixe-Zoque
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'VOS'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Tarascan
+	('Strongly suffixing', 'SVO'): 1
+
+Language Family: Páezan
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Quechuan
+	('Strongly suffixing', 'SOV'): 2
+
+Language Family: Chimakuan
+	('Weakly suffixing', 'VSO'): 1
+
+Language Family: North Halmaheran
+	('Strong prefixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Sandawe
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Yanomam
+	('Little affixation', 'SOV'): 1
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Sentanic
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Sulka
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Takelma
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Totonacan
+	('Weakly prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SVO'): 2
+
+Language Family: Ticuna
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Tiwian
+	('Strong prefixing', 'SVO'): 1
+
+Language Family: Tonkawa
+	('Weakly suffixing', 'No dominant order'): 1
+
+Language Family: Trumai
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Tunica
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Urarina
+	('Strongly suffixing', 'OVS'): 1
+
+Language Family: Wagiman
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Waorani
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Wappo-Yukian
+	('Strongly suffixing', 'SOV'): 1
+
+Language Family: Yangmanic
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Chapacura-Wanham
+	('Little affixation', 'VOS'): 1
+
+Language Family: Nyulnyulan
+	('Weakly prefixing', 'No dominant order'): 1
+
+Language Family: Washo
+	('Weakly suffixing', 'SOV'): 1
+
+Language Family: Caddoan
+	('Weakly prefixing', 'No dominant order'): 1
+
+Language Family: Matacoan
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Peba-Yaguan
+	('Strongly suffixing', 'No dominant order'): 1
+
+Language Family: Yuchi
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Yukaghir
+	('Strongly suffixing', 'SOV'): 2
+

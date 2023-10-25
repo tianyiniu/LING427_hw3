@@ -1,0 +1,688 @@
+Language Family: Guaicuruan
+	('Strongly suffixing', 'SVO'): ['abi']
+	('Equal prefixing and suffixing', 'SVO'): ['mcv']
+	('Weakly prefixing', 'SVO'): ['pga']
+	('Equal prefixing and suffixing', 'No dominant order'): ['tob']
+
+Language Family: Northwest Caucasian
+	('Equal prefixing and suffixing', 'SOV'): ['abk', 'kab', 'uby']
+
+Language Family: Greater West Bomberai
+	('Equal prefixing and suffixing', 'SOV'): ['abv']
+	('Little affixation', 'SOV'): ['adg', 'mkj']
+
+Language Family: Abun
+	('Little affixation', 'SVO'): ['abu']
+
+Language Family: Austronesian
+	('Little affixation', 'No dominant order'): ['ace', 'bwc', 'dre', 'fij', 'min', 'sam', 'tin', 'tng']
+	('Strongly suffixing', 'VSO'): ['agc']
+	('Equal prefixing and suffixing', 'SOV'): ['all', 'gmw', 'krr', 'tak']
+	('Equal prefixing and suffixing', 'SVO'): ['aln', 'jab', 'mna', 'plh', 'sio', 'sob']
+	('Little affixation', 'SVO'): ['aml', 'aro', 'bvi', 'fut', 'iaa', 'iba', 'kos', 'lmp', 'lou', 'mae', 'mng', 'mus', 'ngd', 'pul', 'rot', 'sis', 'son', 'sun', 'tab', 'teo', 'ttn', 'tgk', 'tla', 'uli', 'url', 'wol', 'xar']
+	('Weakly prefixing', 'SVO'): ['amq', 'bnn', 'bik', 'erk', 'eno', 'lmh', 'len', 'lew', 'lon', 'kkv', 'nua', 'pms', 'pal', 'sak']
+	('Equal prefixing and suffixing', 'VOS'): ['anj', 'bto', 'krb']
+	('Strongly suffixing', 'No dominant order'): ['bkr']
+	('Equal prefixing and suffixing', 'No dominant order'): ['btk', 'pai', 'ruk']
+	('Little affixation', 'VSO'): ['cha', 'haw', 'hoa', 'kkt', 'mmn', 'mao', 'niu', 'rap', 'tag', 'tah', 'tim', 'yap']
+	('Little affixation', 'VOS'): ['cem', 'lgu', 'mal']
+	('Strongly suffixing', 'SVO'): ['hal', 'ind']
+	('Weakly prefixing', 'SOV'): ['idn', 'msn', 'sng', 'taw']
+	('Strong prefixing', 'SVO'): ['irr', 'kel']
+	('Weakly prefixing', 'No dominant order'): ['klv', 'tno']
+	('Weakly suffixing', 'SOV'): ['mnm', 'slb', 'wed']
+	('Strong prefixing', 'VSO'): ['mwb']
+	('Weakly suffixing', 'SVO'): ['mok', 'nak', 'poh']
+	('Strongly suffixing', 'SOV'): ['mtu']
+	('Strong prefixing', 'VOS'): ['nia']
+	('Weakly prefixing', 'VSO'): ['tbo']
+	('Weakly prefixing', 'VOS'): ['tuk']
+	('Equal prefixing and suffixing', 'VSO'): ['wlo']
+
+Language Family: Arawakan
+	('Equal prefixing and suffixing', 'SVO'): ['acg', 'apu', 'ara', 'mpr']
+	('Weakly suffixing', 'SVO'): ['bae', 'wrk']
+	('Weakly suffixing', 'VOS'): ['baq']
+	('Strongly suffixing', 'No dominant order'): ['cax']
+	('Weakly suffixing', 'VSO'): ['goa']
+	('Strongly suffixing', 'SVO'): ['plk']
+	('Weakly suffixing', 'SOV'): ['pir']
+	('Equal prefixing and suffixing', 'SOV'): ['res', 'tar']
+
+Language Family: Eastern Sudanic
+	('Equal prefixing and suffixing', 'SVO'): ['acl', 'koe', 'lan', 'luo', 'shl']
+	('Equal prefixing and suffixing', 'No dominant order'): ['any']
+	('Weakly prefixing', 'SVO'): ['bar', 'tmn']
+	('Strongly suffixing', 'VSO'): ['did', 'ik', 'maj']
+	('Little affixation', 'No dominant order'): ['din']
+	('Weakly suffixing', 'SVO'): ['igs', 'mur', 'sht']
+	('Weakly prefixing', 'VSO'): ['kmj', 'maa']
+	('Strongly suffixing', 'SVO'): ['mee', 'trm']
+	('Weakly suffixing', 'VSO'): ['mrl', 'pkt', 'so', 'ten']
+	('Equal prefixing and suffixing', 'VSO'): [nan]
+	('Strongly suffixing', 'SOV'): ['nar', 'nbd', 'nyi']
+	('Strongly suffixing', 'No dominant order'): ['nue']
+	('Weakly suffixing', 'OVS'): ['par']
+	('Weakly suffixing', 'SOV'): ['tma']
+	('Strong prefixing', 'VSO'): ['tes', 'tna']
+
+Language Family: Keresan
+	('Equal prefixing and suffixing', 'No dominant order'): ['aco']
+	('Weakly prefixing', 'No dominant order'): ['ksa']
+
+Language Family: Niger-Congo
+	('Weakly prefixing', 'SVO'): ['adi', 'kan', 'lbu', 'mba', 'nza', 'swa']
+	('Strong prefixing', 'SVO'): ['akn', 'bir', 'bdu', 'bsh', 'ewo', 'hnd', 'kba', 'kik', 'kon', 'kwn', 'llm', 'luv', 'mtb', 'mgk', 'ndb', 'ngo', 'nkn', 'nko', 'obo', 'obg', 'pre', 'rny', 'san', 'shm', 'shn', 'toz', 'xho', 'zul']
+	('Little affixation', 'SVO'): ['anu', 'duk', 'egn', 'gok', 'juk', 'kir', 'lnd', 'mbm', 'mum', 'nup', 'wlf', 'yor']
+	('Weakly prefixing', 'No dominant order'): ['bbu']
+	('Strongly suffixing', 'SVO'): ['bmb', 'doy', 'gbb', 'grb', 'kni', 'moo', 'ndt', 'noo']
+	('Weakly suffixing', 'SVO'): ['dgb', 'fua', 'fye', 'kfe', 'mdo']
+	('Equal prefixing and suffixing', 'SVO'): ['dio', 'ewe', 'gbs', 'izi', 'mga', 'ndo', 'non', 'tne', 'zan']
+	('Weakly suffixing', 'No dominant order'): ['dgo']
+	('Strong prefixing', 'No dominant order'): ['nym']
+	('Weakly suffixing', 'SOV'): ['sup', 'tnn']
+
+Language Family: Pama-Nyungan
+	('Strongly suffixing', 'No dominant order'): ['adn', 'dhr', 'djm', 'djr', 'djn', 'dyi', 'ggu', 'mdm', 'mrw', 'nha', 'ppi', 'rit', 'wrl', 'wrg']
+	('Strongly suffixing', 'SOV'): ['aly', 'agt', 'abn', 'amp', 'diy', 'dja', 'djp', 'gug', 'guu', 'inn', 'kya', 'mny', 'uhi', 'wmu', 'yid', 'yuw']
+	('Strongly suffixing', 'SVO'): ['bii', 'mrt', 'ngw', 'pkn', 'yin', 'yng']
+	('Little affixation', 'SOV'): ['thy']
+	('Strongly suffixing', 'VOS'): ['wem']
+
+Language Family: Trans-New Guinea
+	('Weakly suffixing', 'SOV'): ['aga', 'gds', 'hua', 'kiw', 'kmp', 'tau', 'usr']
+	('Strongly suffixing', 'SOV'): ['ame', 'awa', 'baa', 'dag', 'dni', 'eip', 'for', 'gah', 'gln', 'kew', 'kob', 'kmo', 'kta', 'kmb', 'krw', 'kmn', 'kyk', 'mpt', 'nab', 'rum', 'syu', 'sia', 'sro', 'sue', 'suk', 'trr', 'una', 'wah', 'wbn', 'wsk', 'yal', 'yar']
+	('Equal prefixing and suffixing', 'SOV'): ['ham', 'ygr']
+
+Language Family: Ainu
+	('Equal prefixing and suffixing', 'SOV'): ['ain']
+
+Language Family: Sino-Tibetan
+	('Little affixation', 'SOV'): ['akh', 'agm', 'baw', 'jng', 'lah', 'lai', 'lal', 'lep', 'mru', 'miz', 'raw']
+	('Weakly suffixing', 'SOV'): ['ao', 'drm', 'gur', 'kmh', 'lot', 'nwd', 'tao']
+	('Strongly suffixing', 'SOV'): ['apt', 'ath', 'blt', 'brm', 'deu', 'dig', 'gal', 'gar', 'hay', 'kac', 'khg', 'knn', 'kok', 'lad', 'mik', 'msg', 'ngt', 'new', 'noc', 'pum', 'prk', 'tam', 'thn', 'tmo', 'tgl']
+	('Little affixation', 'SVO'): ['bai', 'cnt', 'ksg', 'kyl']
+	('Equal prefixing and suffixing', 'SOV'): ['chg']
+	('Weakly prefixing', 'SVO'): ['kbw']
+	('Strongly suffixing', 'SVO'): ['mnd']
+
+Language Family: Sepik
+	('Strongly suffixing', 'SOV'): ['ala', 'kwo']
+	('Weakly suffixing', 'SOV'): ['awt']
+	('Equal prefixing and suffixing', 'SOV'): ['nam']
+
+Language Family: Mangarrayi-Maran
+	('Strongly suffixing', 'No dominant order'): ['alw']
+	('Equal prefixing and suffixing', 'OVS'): ['myi']
+	('Weakly prefixing', 'No dominant order'): ['mra']
+	('Equal prefixing and suffixing', 'SVO'): ['wrn']
+
+Language Family: Indo-European
+	('Strongly suffixing', 'SVO'): ['alb', 'bul', 'crn', 'dsh', 'eng', 'fre', 'ice', 'ita', 'lit', 'nor', 'pol', 'por', 'rom', 'rus', 'srd', 'scr', 'slo', 'spa', 'swe', 'ukr']
+	('Strongly suffixing', 'No dominant order'): ['arm', 'blr', 'dom', 'dut', 'ger', 'grk', 'rwe']
+	('Strongly suffixing', 'SOV'): ['arw', 'ass', 'bho', 'hin', 'lmn', 'mhi', 'nep', 'oya', 'oss', 'pan', 'psh', 'sav', 'sna', 'urd', 'wak']
+	('Weakly suffixing', 'SVO'): ['bre', 'cze', 'lat']
+	('Weakly suffixing', 'VSO'): ['gae']
+	('Equal prefixing and suffixing', 'VSO'): ['iri']
+	('Weakly suffixing', 'SOV'): ['krd', 'prs', 'taj']
+	('Strongly suffixing', 'VSO'): ['wel']
+
+Language Family: Eskimo-Aleut
+	('Strongly suffixing', 'SOV'): ['ale', 'grw']
+	('Strongly suffixing', 'No dominant order'): ['ypk']
+
+Language Family: Pano-Tacanan
+	('Strongly suffixing', 'No dominant order'): ['amc', 'cbo', 'tac']
+	('Strongly suffixing', 'SOV'): ['cas', 'mts', 'shk']
+	('Little affixation', 'SOV'): ['ese']
+
+Language Family: Border
+	('Strongly suffixing', 'SOV'): ['amn']
+
+Language Family: Afro-Asiatic
+	('Weakly suffixing', 'SOV'): ['amh', 'bej', 'tgr']
+	('Little affixation', 'SVO'): ['anc', 'goe', 'hau', 'mup']
+	('Weakly suffixing', 'SVO'): ['aeg', 'arg', 'heb', 'mrg']
+	('Equal prefixing and suffixing', 'SVO'): ['arq', 'bud', 'lag', 'per']
+	('Strongly suffixing', 'VSO'): ['ams', 'gud', 'lmg']
+	('Weakly suffixing', 'No dominant order'): ['asy']
+	('Weakly prefixing', 'VSO'): ['bfg']
+	('Equal prefixing and suffixing', 'VSO'): ['bma', 'tsk']
+	('Weakly prefixing', 'SVO'): ['brf', 'cop']
+	('Strongly suffixing', 'No dominant order'): ['bln', 'miy']
+	('Strongly suffixing', 'SVO'): ['brn', 'knk', 'ker', 'lel', 'mlg', 'mbr', 'mgu', 'ngz', 'paa', 'ter']
+	('Equal prefixing and suffixing', 'SOV'): ['chh']
+	('Strongly suffixing', 'SOV'): ['dim', 'gim', 'irq', 'kem', 'naj', 'orh', 'sid', 'som', 'wly', 'zay']
+	('Equal prefixing and suffixing', 'No dominant order'): ['meh']
+	('Weakly prefixing', 'No dominant order'): ['tas']
+	('Strong prefixing', 'SVO'): ['uld']
+
+Language Family: Senagi
+	('Strongly suffixing', 'SOV'): ['ang']
+
+Language Family: Gunwinyguan
+	('Equal prefixing and suffixing', 'No dominant order'): ['ann', 'nug']
+	('Weakly prefixing', 'No dominant order'): ['bbw']
+	('Weakly suffixing', 'No dominant order'): ['ngl']
+	('Weakly suffixing', 'SOV'): ['nkb']
+
+Language Family: Na-Dene
+	('Equal prefixing and suffixing', 'SOV'): ['apw', 'tli']
+	('Strong prefixing', 'SOV'): ['chp', 'nav', 'sla']
+	('Weakly prefixing', 'No dominant order'): ['hup']
+	('Weakly prefixing', 'SOV'): ['src']
+
+Language Family: Cariban
+	('Equal prefixing and suffixing', 'No dominant order'): ['apl']
+	('Equal prefixing and suffixing', 'SOV'): ['car', 'cde']
+	('Equal prefixing and suffixing', 'OVS'): ['hix', 'tir']
+	('Strongly suffixing', 'No dominant order'): ['mac']
+
+Language Family: Torricelli
+	('Weakly prefixing', 'SVO'): ['arp', 'au', 'aoj', 'wal']
+	('Weakly prefixing', 'SOV'): ['kmz']
+	('Little affixation', 'SVO'): ['xbi', 'urt']
+	('Weakly suffixing', 'SVO'): ['olo']
+
+Language Family: Nakh-Daghestanian
+	('Strongly suffixing', 'SOV'): ['arc', 'ava', 'chc', 'hzb', 'lez', 'ttu', 'udi']
+	('Weakly suffixing', 'SOV'): ['rut', 'tsz']
+
+Language Family: Asmat-Kamrau Bay
+	('Strongly suffixing', 'SOV'): ['asm']
+	('Weakly suffixing', 'SOV'): ['kmr']
+
+Language Family: Barbacoan
+	('Strongly suffixing', 'SOV'): ['awp', 'cay']
+
+Language Family: Aymaran
+	('Strongly suffixing', 'SOV'): ['aym']
+
+Language Family: Altaic
+	('Strongly suffixing', 'SOV'): ['azi', 'aze', 'but', 'chv', 'dgr', 'evn', 'eve', 'krc', 'kkp', 'khl', 'kha', 'mnc', 'mgg', 'mog', 'mkh', 'nog', 'sta', 'tvo', 'tur', 'tuv', 'uyg', 'uzb', 'ykt']
+
+Language Family: Wandjiginy
+	('Equal prefixing and suffixing', 'No dominant order'): ['bac']
+
+Language Family: Central Sudanic
+	('Weakly suffixing', 'SVO'): ['bag', 'ngm']
+	('Weakly prefixing', 'SVO'): ['bgr', 'bgo', 'mmv']
+	('Little affixation', 'SVO'): ['bka', 'gul', 'jmo']
+	('Strongly suffixing', 'SVO'): ['kar', 'ken', 'mby']
+	('Equal prefixing and suffixing', 'SVO'): ['kre', 'mbt', 'yul']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ldu', 'nti']
+	('Weakly prefixing', 'No dominant order'): ['lug']
+	('Little affixation', 'No dominant order'): ['mad']
+	('Weakly suffixing', 'No dominant order'): ['mou']
+
+Language Family: Mande
+	('Strongly suffixing', 'SOV'): ['bam', 'mde']
+	('Little affixation', 'SOV'): ['man', 'mka', 'vai', 'xas']
+
+Language Family: Tucanoan
+	('Strongly suffixing', 'No dominant order'): ['brs']
+	('Strongly suffixing', 'OVS'): ['cub']
+	('Strongly suffixing', 'SOV'): ['des']
+
+Language Family: Skou
+	('Weakly prefixing', 'SOV'): ['brp']
+	('Little affixation', 'SOV'): ['isa']
+	('Little affixation', 'No dominant order'): ['pok']
+
+Language Family: Basque
+	('Equal prefixing and suffixing', 'SOV'): ['bsq']
+
+Language Family: Salishan
+	('Strongly suffixing', 'VSO'): ['bco', 'squ']
+	('Weakly prefixing', 'VSO'): ['kls']
+	('Equal prefixing and suffixing', 'No dominant order'): ['shu']
+
+Language Family: Saharan
+	('Weakly suffixing', 'SOV'): ['zag']
+	('Strongly suffixing', 'SOV'): ['kbu', 'knr', 'tbu']
+
+Language Family: Berta
+	('Weakly suffixing', 'SVO'): ['ber']
+
+Language Family: Betoi
+	('Weakly suffixing', 'SOV'): ['bti']
+
+Language Family: Dravidian
+	('Strongly suffixing', 'SOV'): ['bkb', 'gon', 'knd', 'kol', 'koy', 'kuv', 'tml', 'tel']
+
+Language Family: Siouan
+	('Equal prefixing and suffixing', 'SOV'): ['blx', 'tte']
+	('Weakly prefixing', 'SOV'): ['lkt']
+	('Weakly suffixing', 'SOV'): ['mdn']
+	('Little affixation', 'SOV'): ['osa']
+
+Language Family: Solomons East Papuan
+	('Weakly suffixing', 'No dominant order'): ['bil']
+	('Weakly suffixing', 'SOV'): ['lav']
+	('Strongly suffixing', 'SOV'): ['svs']
+
+Language Family: Algic
+	('Weakly prefixing', 'No dominant order'): ['bla']
+	('Equal prefixing and suffixing', 'No dominant order'): ['cre', 'men']
+	('Strongly suffixing', 'No dominant order'): ['wiy']
+	('Weakly suffixing', 'No dominant order'): ['yur']
+
+Language Family: Chibchan
+	('Strongly suffixing', 'SOV'): ['bri', 'trb']
+	('Weakly suffixing', 'SOV'): ['ika', 'msc']
+	('Equal prefixing and suffixing', 'SOV'): ['ram']
+
+Language Family: Hmong-Mien
+	('Little affixation', 'SVO'): ['pnu', 'hmo', 'mie']
+
+Language Family: Mangrida
+	('Weakly prefixing', 'SOV'): ['bua']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ndj']
+
+Language Family: Burushaski
+	('Weakly suffixing', 'SOV'): ['bur']
+
+Language Family: Uto-Aztecan
+	('Equal prefixing and suffixing', 'SOV'): ['cah', 'cup', 'hui', 'nev']
+	('Strongly suffixing', 'No dominant order'): ['cmh', 'kws', 'lui', 'ute']
+	('Strongly suffixing', 'SOV'): ['cmn', 'hop', 'mno', 'pno', 'sho', 'twe', 'tsh', 'yaq']
+	('Weakly suffixing', 'SOV'): ['eud', 'pba']
+	('Equal prefixing and suffixing', 'VSO'): ['nhh', 'tpn']
+	('Weakly prefixing', 'SVO'): ['nhm']
+	('Equal prefixing and suffixing', 'SVO'): ['nht']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ood', 'pip']
+
+Language Family: Camsá
+	('Weakly prefixing', 'No dominant order'): ['cam']
+
+Language Family: Macro-Ge
+	('Little affixation', 'SOV'): ['cnl']
+
+Language Family: Cayuvava
+	('Weakly prefixing', 'VOS'): ['cyv']
+
+Language Family: Iroquoian
+	('Weakly prefixing', 'No dominant order'): ['che', 'moh', 'ond', 'tus']
+
+Language Family: Oto-Manguean
+	('Strong prefixing', 'VSO'): ['ccm', 'mxc']
+	('Little affixation', 'VOS'): ['cle']
+	('Equal prefixing and suffixing', 'VSO'): ['cpl', 'chq', 'mxj', 'tlp', 'tri', 'zai', 'zap', 'zzo']
+	('Weakly suffixing', 'No dominant order'): ['mzh']
+	('Little affixation', 'VSO'): ['mxo']
+	('Weakly prefixing', 'VSO'): ['mxp']
+	('Strong prefixing', 'SVO'): ['ocu']
+	('Weakly prefixing', 'VOS'): ['otm']
+	('Weakly prefixing', 'SVO'): ['pam']
+
+Language Family: Penutian
+	('Weakly prefixing', 'VOS'): ['ckl']
+	('Strongly suffixing', 'No dominant order'): ['klm', 'mss', 'ptw', 'wik', 'win', 'ywl', 'yok']
+	('Weakly suffixing', 'VSO'): ['shp']
+	('Strongly suffixing', 'SOV'): ['mne']
+	('Strongly suffixing', 'SVO'): ['mut']
+	('Equal prefixing and suffixing', 'No dominant order'): ['nez']
+
+Language Family: Uru-Chipaya
+	('Strongly suffixing', 'SOV'): ['cpy']
+
+Language Family: Chitimacha
+	('Strongly suffixing', 'SOV'): ['ctm']
+
+Language Family: Muskogean
+	('Equal prefixing and suffixing', 'SOV'): ['cct', 'koa']
+	('Weakly suffixing', 'SOV'): ['mki', 'smn']
+
+Language Family: Hobitu-Cholon
+	('Weakly suffixing', 'SOV'): ['cln']
+
+Language Family: Mayan
+	('Strongly suffixing', 'SVO'): ['cmy']
+	('Little affixation', 'SVO'): ['htc']
+	('Strong prefixing', 'VSO'): ['jak', 'qum']
+	('Strongly suffixing', 'No dominant order'): ['lac']
+	('Weakly prefixing', 'VSO'): ['mam']
+	('Equal prefixing and suffixing', 'VOS'): ['tzo']
+	('Strong prefixing', 'No dominant order'): ['tzu']
+
+Language Family: Austro-Asiatic
+	('Little affixation', 'SVO'): ['chr', 'khs', 'khm', 'kmu', 'mon', 'sed', 'sti', 'vie']
+	('Little affixation', 'No dominant order'): ['khr']
+	('Strongly suffixing', 'SOV'): ['kku', 'mun', 'stl']
+	('Strongly suffixing', 'VOS'): ['nca']
+	('Strong prefixing', 'SVO'): ['tmr']
+
+Language Family: Chukotko-Kamchatkan
+	('Weakly suffixing', 'No dominant order'): ['chk']
+	('Strongly suffixing', 'SOV'): ['ite']
+	('Weakly suffixing', 'SOV'): ['kry']
+
+Language Family: Chumash
+	('Equal prefixing and suffixing', 'VOS'): ['cba']
+
+Language Family: Coahuiltecan
+	('Equal prefixing and suffixing', 'SOV'): ['coa']
+
+Language Family: Tupian
+	('Strongly suffixing', 'SVO'): ['coc']
+	('Strong prefixing', 'SVO'): ['gua']
+	('Equal prefixing and suffixing', 'SOV'): ['kma', 'tpt', 'eme']
+	('Little affixation', 'SOV'): ['kaa', 'mek']
+	('Weakly prefixing', 'SOV'): ['srn', 'urk']
+
+Language Family: Oregon Coast
+	('Weakly suffixing', 'No dominant order'): ['coo']
+	('Strongly suffixing', 'No dominant order'): ['siu']
+
+Language Family: Hokan
+	('Weakly prefixing', 'SOV'): ['die', 'tja']
+	('Weakly suffixing', 'SOV'): ['hlp']
+	('Equal prefixing and suffixing', 'No dominant order'): ['krk']
+	('Equal prefixing and suffixing', 'SOV'): ['klw', 'mar']
+	('Strongly suffixing', 'SOV'): ['pme', 'pso']
+	('Equal prefixing and suffixing', 'SVO'): ['sal']
+	('Strong prefixing', 'SOV'): ['ser']
+
+Language Family: Mirndi
+	('Strongly suffixing', 'SOV'): ['dji']
+	('Strongly suffixing', 'No dominant order'): ['wam']
+
+Language Family: Dogon
+	('Strongly suffixing', 'SOV'): ['dds', 'jms']
+
+Language Family: Duna-Bogaya
+	('Little affixation', 'SOV'): ['dun']
+
+Language Family: Uralic
+	('Strongly suffixing', 'SOV'): ['ene', 'kms', 'kty', 'mns', 'ntu', 'nga', 'skp', 'udm']
+	('Strongly suffixing', 'SVO'): ['est', 'fin', 'moe', 'sno']
+	('Strongly suffixing', 'No dominant order'): ['hun']
+
+Language Family: Choco
+	('Strongly suffixing', 'SOV'): ['epe']
+
+Language Family: Teberan-Pawaian
+	('Strongly suffixing', 'SOV'): ['pdp', 'paw']
+
+Language Family: Fur
+	('Weakly suffixing', 'SOV'): ['fur']
+
+Language Family: Garrwan
+	('Strongly suffixing', 'No dominant order'): ['grr']
+
+Language Family: Kartvelian
+	('Weakly suffixing', 'SOV'): ['geo']
+
+Language Family: Bunuban
+	('Weakly prefixing', 'No dominant order'): ['goo']
+
+Language Family: Gumuz
+	('Weakly suffixing', 'SVO'): ['gmz']
+
+Language Family: Worrorran
+	('Weakly prefixing', 'No dominant order'): ['gnn']
+	('Little affixation', 'OVS'): ['ung']
+
+Language Family: Chonan
+	('Weakly suffixing', 'No dominant order'): ['gku']
+
+Language Family: Haida
+	('Strongly suffixing', 'SOV'): ['hai']
+
+Language Family: Hatim-Mansim
+	('Strong prefixing', 'SVO'): ['hat']
+
+Language Family: Huavean
+	('Equal prefixing and suffixing', 'SVO'): ['hve']
+
+Language Family: Witotoan
+	('Strongly suffixing', 'SOV'): ['hmi', 'hum']
+
+Language Family: Nadahup
+	('Strongly suffixing', 'SOV'): ['hpd']
+
+Language Family: Ijoid
+	('Weakly suffixing', 'SOV'): ['ijo']
+
+Language Family: South Bird's Head
+	('Equal prefixing and suffixing', 'No dominant order'): ['ina']
+
+Language Family: Zaparoan
+	('Equal prefixing and suffixing', 'SVO'): ['iqu']
+	('Weakly suffixing', 'SVO'): ['zpr']
+
+Language Family: Iranxe
+	('Strongly suffixing', 'SOV'): ['irx']
+
+Language Family: Japanese
+	('Strongly suffixing', 'SOV'): ['jpn']
+
+Language Family: Cahuapanan
+	('Strongly suffixing', 'No dominant order'): ['jeb']
+
+Language Family: Jivaroan
+	('Strongly suffixing', 'SOV'): ['jiv']
+
+Language Family: Kxa
+	('Little affixation', 'SVO'): ['juh']
+
+Language Family: Kadu
+	('Weakly prefixing', 'SVO'): ['ktc']
+	('Weakly prefixing', 'VSO'): ['kro']
+
+Language Family: Kordofanian
+	('Equal prefixing and suffixing', 'SVO'): ['ktl']
+	('Equal prefixing and suffixing', 'No dominant order'): ['msk']
+	('Weakly prefixing', 'SVO'): ['mro', 'otr']
+	('Weakly prefixing', 'SOV'): ['ras']
+
+Language Family: Tangkic
+	('Strongly suffixing', 'No dominant order'): ['kay']
+	('Strongly suffixing', 'SVO'): ['yuk']
+
+Language Family: Yeniseian
+	('Weakly prefixing', 'SOV'): ['ket']
+
+Language Family: Kolopom
+	('Little affixation', 'SOV'): ['kim']
+
+Language Family: Kiowa-Tanoan
+	('Equal prefixing and suffixing', 'SOV'): ['kio']
+	('Equal prefixing and suffixing', 'No dominant order'): ['twn']
+
+Language Family: Kariri
+	('Equal prefixing and suffixing', 'VOS'): ['kri']
+
+Language Family: Koman
+	('Weakly suffixing', 'SVO'): ['kom']
+
+Language Family: Khoe-Kwadi
+	('Strongly suffixing', 'No dominant order'): ['krn']
+	('Strongly suffixing', 'SOV'): ['kho']
+
+Language Family: Korean
+	('Strongly suffixing', 'SOV'): ['kor']
+
+Language Family: Songhay
+	('Little affixation', 'SVO'): ['kch']
+	('Little affixation', 'SOV'): ['kse']
+
+Language Family: Kunama
+	('Weakly suffixing', 'SOV'): ['knm']
+
+Language Family: Kuot
+	('Equal prefixing and suffixing', 'VSO'): ['kuo']
+
+Language Family: Kutenai
+	('Weakly suffixing', 'No dominant order'): ['kut']
+
+Language Family: Kwaza
+	('Strongly suffixing', 'No dominant order'): ['kwz']
+
+Language Family: Kwomtari
+	('Strongly suffixing', 'SOV'): ['kwt']
+
+Language Family: Laal
+	('Strongly suffixing', 'SVO'): ['laa']
+
+Language Family: Tai-Kadai
+	('Little affixation', 'SVO'): ['lao', 'nun', 'tha', 'zhn']
+
+Language Family: Leko
+	('Weakly suffixing', 'No dominant order'): ['lec']
+
+Language Family: Maban
+	('Weakly suffixing', 'SOV'): ['mab']
+	('Strongly suffixing', 'SOV'): ['msl']
+	('Equal prefixing and suffixing', 'SOV'): ['run']
+
+Language Family: Wakashan
+	('Little affixation', 'VSO'): ['mak']
+
+Language Family: Araucanian
+	('Strongly suffixing', 'SVO'): ['map']
+
+Language Family: Western Daly
+	('Little affixation', 'SOV'): ['mku']
+
+Language Family: Iwaidjan
+	('Weakly prefixing', 'SVO'): ['mau']
+
+Language Family: Maybrat
+	('Strong prefixing', 'SVO'): ['may']
+
+Language Family: Eastern Trans-Fly
+	('Equal prefixing and suffixing', 'SOV'): ['mer']
+
+Language Family: East Bird's Head
+	('Weakly prefixing', 'SVO'): ['mea']
+
+Language Family: Misumalpan
+	('Strongly suffixing', 'SOV'): ['mis']
+
+Language Family: Baibai-Fas
+	('Weakly suffixing', 'SOV'): ['fqs']
+
+Language Family: Yale
+	('Strongly suffixing', 'SOV'): ['nag']
+
+Language Family: Nambikuaran
+	('Strongly suffixing', 'SOV'): ['nmb']
+
+Language Family: South Bougainville
+	('Strongly suffixing', 'SOV'): ['nas']
+
+Language Family: other
+	('Little affixation', 'SVO'): ['ndy']
+
+Language Family: Tsimshianic
+	('Little affixation', 'VSO'): ['nsg']
+	('Weakly suffixing', 'VSO'): ['tsi']
+
+Language Family: Nivkh
+	('Weakly suffixing', 'SOV'): ['niv']
+
+Language Family: South Andamanese
+	('Weakly suffixing', 'SOV'): ['ong']
+
+Language Family: Arauan
+	('Equal prefixing and suffixing', 'SVO'): ['pau']
+
+Language Family: Mura
+	('Strongly suffixing', 'SOV'): ['prh']
+
+Language Family: Mixe-Zoque
+	('Equal prefixing and suffixing', 'SVO'): ['zqs']
+	('Equal prefixing and suffixing', 'VOS'): ['zqc']
+	('Equal prefixing and suffixing', 'No dominant order'): ['zqo']
+
+Language Family: Tarascan
+	('Strongly suffixing', 'SVO'): ['pur']
+
+Language Family: Páezan
+	('Strongly suffixing', 'SOV'): ['pae']
+
+Language Family: Quechuan
+	('Strongly suffixing', 'SOV'): ['qhu', 'qim']
+
+Language Family: Chimakuan
+	('Weakly suffixing', 'VSO'): ['qui']
+
+Language Family: North Halmaheran
+	('Strong prefixing', 'SVO'): ['sah', 'tid', 'wma']
+	('Equal prefixing and suffixing', 'SOV'): ['tlo']
+
+Language Family: Sandawe
+	('Strongly suffixing', 'SOV'): ['sdw']
+
+Language Family: Yanomam
+	('Little affixation', 'SOV'): ['snm']
+	('Strongly suffixing', 'SOV'): ['shi']
+
+Language Family: Sentanic
+	('Strongly suffixing', 'SOV'): ['snt']
+
+Language Family: Sulka
+	('Strong prefixing', 'SVO'): ['sul']
+
+Language Family: Takelma
+	('Weakly suffixing', 'SOV'): ['tkl']
+
+Language Family: Totonacan
+	('Weakly prefixing', 'No dominant order'): ['tee']
+	('Equal prefixing and suffixing', 'SVO'): ['tep', 'txj']
+
+Language Family: Ticuna
+	('Equal prefixing and suffixing', 'No dominant order'): ['tic']
+
+Language Family: Tiwian
+	('Strong prefixing', 'SVO'): ['tiw']
+
+Language Family: Tonkawa
+	('Weakly suffixing', 'No dominant order'): ['ton']
+
+Language Family: Trumai
+	('Strongly suffixing', 'No dominant order'): ['tru']
+
+Language Family: Tunica
+	('Strongly suffixing', 'SOV'): ['tun']
+
+Language Family: Urarina
+	('Strongly suffixing', 'OVS'): ['urn']
+
+Language Family: Wagiman
+	('Equal prefixing and suffixing', 'SOV'): ['wag']
+
+Language Family: Waorani
+	('Strongly suffixing', 'SOV'): ['wao']
+
+Language Family: Wappo-Yukian
+	('Strongly suffixing', 'SOV'): ['wap']
+
+Language Family: Yangmanic
+	('Equal prefixing and suffixing', 'No dominant order'): ['wrd']
+
+Language Family: Chapacura-Wanham
+	('Little affixation', 'VOS'): ['war']
+
+Language Family: Nyulnyulan
+	('Weakly prefixing', 'No dominant order'): ['wrw']
+
+Language Family: Washo
+	('Weakly suffixing', 'SOV'): ['was']
+
+Language Family: Caddoan
+	('Weakly prefixing', 'No dominant order'): ['wic']
+
+Language Family: Matacoan
+	('Equal prefixing and suffixing', 'SVO'): ['wch']
+
+Language Family: Peba-Yaguan
+	('Strongly suffixing', 'No dominant order'): ['yag']
+
+Language Family: Yuchi
+	('Equal prefixing and suffixing', 'SOV'): ['yuc']
+
+Language Family: Yukaghir
+	('Strongly suffixing', 'SOV'): ['yko', 'ytu']
+
