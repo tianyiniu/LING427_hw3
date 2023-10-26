@@ -1,0 +1,85 @@
+Austronesian: 104 langauges
+	Little affixation
+	Suffixing
+	Equal prefixing and suffixing
+	Prefixing
+
+Niger-Congo: 73 langauges
+	Prefixing
+		SVO : 0.944
+	Little affixation
+		SVO : 1.0
+	Suffixing
+		SVO : 0.812
+	Equal prefixing and suffixing
+		SVO : 1.0
+
+Indo-European: 51 langauges
+	Suffixing
+	Equal prefixing and suffixing
+		VSO : 1.0
+
+Sino-Tibetan: 50 langauges
+	Little affixation
+		SOV : 0.733
+	Suffixing
+		SOV : 0.97
+	Equal prefixing and suffixing
+		SOV : 1.0
+	Prefixing
+		SVO : 1.0
+
+Afro-Asiatic: 50 langauges
+	Suffixing
+	Little affixation
+		SVO : 1.0
+	Equal prefixing and suffixing
+	Prefixing
+
+Trans-New Guinea: 41 langauges
+	Suffixing
+		SOV : 1.0
+	Equal prefixing and suffixing
+		SOV : 1.0
+
+Pama-Nyungan: 38 langauges
+	Suffixing
+	Little affixation
+		SOV : 1.0
+
+Eastern Sudanic: 32 langauges
+	Equal prefixing and suffixing
+		SVO : 0.714
+	Prefixing
+	Suffixing
+	Little affixation
+		No dominant order : 1.0
+
+Uto-Aztecan: 24 langauges
+	Equal prefixing and suffixing
+	Suffixing
+		SOV : 0.714
+	Prefixing
+		SVO : 1.0
+
+Altaic: 23 langauges
+	Suffixing
+		SOV : 1.0
+
+Central Sudanic: 19 langauges
+	Suffixing
+		SVO : 0.833
+	Prefixing
+		SVO : 0.75
+	Little affixation
+		SVO : 0.75
+	Equal prefixing and suffixing
+
+Oto-Manguean: 17 langauges
+	Prefixing
+	Little affixation
+	Equal prefixing and suffixing
+		VSO : 1.0
+	Suffixing
+		No dominant order : 1.0
+
