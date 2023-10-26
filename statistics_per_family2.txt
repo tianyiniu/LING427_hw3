@@ -1,8 +1,13 @@
 Austronesian: 104 langauges
 	Little affixation
+		SVO : 0.54
 	Suffixing
+		SVO : 0.455
+		SOV : 0.364
 	Equal prefixing and suffixing
+		SVO : 0.353
 	Prefixing
+		SVO : 0.615
 
 Niger-Congo: 73 langauges
 	Prefixing
@@ -16,6 +21,8 @@ Niger-Congo: 73 langauges
 
 Indo-European: 51 langauges
 	Suffixing
+		SVO : 0.46
+		SOV : 0.36
 	Equal prefixing and suffixing
 		VSO : 1.0
 
@@ -31,10 +38,14 @@ Sino-Tibetan: 50 langauges
 
 Afro-Asiatic: 50 langauges
 	Suffixing
+		SOV : 0.394
+		SVO : 0.424
 	Little affixation
 		SVO : 1.0
 	Equal prefixing and suffixing
+		SVO : 0.5
 	Prefixing
+		SVO : 0.6
 
 Trans-New Guinea: 41 langauges
 	Suffixing
@@ -44,6 +55,8 @@ Trans-New Guinea: 41 langauges
 
 Pama-Nyungan: 38 langauges
 	Suffixing
+		No dominant order : 0.378
+		SOV : 0.432
 	Little affixation
 		SOV : 1.0
 
@@ -51,12 +64,16 @@ Eastern Sudanic: 32 langauges
 	Equal prefixing and suffixing
 		SVO : 0.714
 	Prefixing
+		SVO : 0.333
+		VSO : 0.667
 	Suffixing
+		VSO : 0.389
 	Little affixation
 		No dominant order : 1.0
 
 Uto-Aztecan: 24 langauges
 	Equal prefixing and suffixing
+		SOV : 0.444
 	Suffixing
 		SOV : 0.714
 	Prefixing
@@ -74,12 +91,54 @@ Central Sudanic: 19 langauges
 	Little affixation
 		SVO : 0.75
 	Equal prefixing and suffixing
+		SVO : 0.6
+		No dominant order : 0.4
 
 Oto-Manguean: 17 langauges
 	Prefixing
+		VSO : 0.5
+		SVO : 0.333
 	Little affixation
+		VOS : 0.5
+		VSO : 0.5
 	Equal prefixing and suffixing
 		VSO : 1.0
 	Suffixing
 		No dominant order : 1.0
+
+Austro-Asiatic: 14 langauges
+	Little affixation
+		SVO : 0.889
+	Suffixing
+		SOV : 0.75
+	Prefixing
+		SVO : 1.0
+
+Arawakan: 13 langauges
+	Equal prefixing and suffixing
+		SVO : 0.667
+		SOV : 0.333
+	Suffixing
+		SVO : 0.429
+
+Uralic: 13 langauges
+	Suffixing
+		SOV : 0.615
+		SVO : 0.308
+
+Penutian: 12 langauges
+	Prefixing
+		VOS : 1.0
+	Suffixing
+		No dominant order : 0.7
+	Equal prefixing and suffixing
+		No dominant order : 1.0
+
+Hokan: 10 langauges
+	Prefixing
+		SOV : 1.0
+	Suffixing
+		SOV : 1.0
+	Equal prefixing and suffixing
+		SOV : 0.5
 
