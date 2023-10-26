@@ -1,0 +1,182 @@
+Austronesian: 104 langauges
+	Little affixation
+	Suffixing
+	Equal prefixing and suffixing
+	Prefixing
+
+Niger-Congo: 73 langauges
+	Prefixing
+		SVO : 0.466
+	Little affixation
+	Suffixing
+	Equal prefixing and suffixing
+
+Indo-European: 51 langauges
+	Suffixing
+		SVO : 0.451
+		SOV : 0.353
+	Equal prefixing and suffixing
+
+Sino-Tibetan: 50 langauges
+	Little affixation
+	Suffixing
+		SOV : 0.64
+	Equal prefixing and suffixing
+	Prefixing
+
+Afro-Asiatic: 50 langauges
+	Suffixing
+	Little affixation
+	Equal prefixing and suffixing
+	Prefixing
+
+Trans-New Guinea: 41 langauges
+	Suffixing
+		SOV : 0.951
+	Equal prefixing and suffixing
+
+Pama-Nyungan: 38 langauges
+	Suffixing
+		No dominant order : 0.368
+		SOV : 0.421
+	Little affixation
+
+Eastern Sudanic: 32 langauges
+	Equal prefixing and suffixing
+	Prefixing
+	Suffixing
+	Little affixation
+
+Uto-Aztecan: 24 langauges
+	Equal prefixing and suffixing
+	Suffixing
+		SOV : 0.417
+	Prefixing
+
+Altaic: 23 langauges
+	Suffixing
+		SOV : 1.0
+
+Central Sudanic: 19 langauges
+	Suffixing
+	Prefixing
+	Little affixation
+	Equal prefixing and suffixing
+
+Oto-Manguean: 17 langauges
+	Prefixing
+	Little affixation
+	Equal prefixing and suffixing
+		VSO : 0.471
+	Suffixing
+
+Austro-Asiatic: 14 langauges
+	Little affixation
+		SVO : 0.571
+	Suffixing
+	Prefixing
+
+Arawakan: 13 langauges
+	Equal prefixing and suffixing
+		SVO : 0.308
+	Suffixing
+
+Uralic: 13 langauges
+	Suffixing
+		SOV : 0.615
+		SVO : 0.308
+
+Penutian: 12 langauges
+	Prefixing
+	Suffixing
+		No dominant order : 0.583
+	Equal prefixing and suffixing
+
+Hokan: 10 langauges
+	Prefixing
+		SOV : 0.3
+	Suffixing
+		SOV : 0.3
+	Equal prefixing and suffixing
+
+Nakh-Daghestanian: 9 langauges
+	Suffixing
+		SOV : 1.0
+
+Tupian: 9 langauges
+	Suffixing
+	Prefixing
+	Equal prefixing and suffixing
+		SOV : 0.333
+	Little affixation
+
+Torricelli: 8 langauges
+	Prefixing
+		SVO : 0.5
+	Little affixation
+	Suffixing
+
+Dravidian: 8 langauges
+	Suffixing
+		SOV : 1.0
+
+Mayan: 8 langauges
+	Suffixing
+	Little affixation
+	Prefixing
+		VSO : 0.375
+	Equal prefixing and suffixing
+
+Pano-Tacanan: 7 langauges
+	Suffixing
+		No dominant order : 0.429
+		SOV : 0.429
+	Little affixation
+
+Na-Dene: 7 langauges
+	Equal prefixing and suffixing
+	Prefixing
+		SOV : 0.571
+
+Cariban: 6 langauges
+	Equal prefixing and suffixing
+		SOV : 0.333
+		OVS : 0.333
+	Suffixing
+
+Mande: 6 langauges
+	Suffixing
+		SOV : 0.333
+	Little affixation
+		SOV : 0.667
+
+Gunwinyguan: 5 langauges
+	Equal prefixing and suffixing
+		No dominant order : 0.4
+	Prefixing
+	Suffixing
+
+Siouan: 5 langauges
+	Equal prefixing and suffixing
+		SOV : 0.4
+	Prefixing
+	Suffixing
+	Little affixation
+
+Algic: 5 langauges
+	Prefixing
+	Equal prefixing and suffixing
+		No dominant order : 0.4
+	Suffixing
+		No dominant order : 0.4
+
+Chibchan: 5 langauges
+	Suffixing
+		SOV : 0.8
+	Equal prefixing and suffixing
+
+Kordofanian: 5 langauges
+	Equal prefixing and suffixing
+	Prefixing
+		SVO : 0.4
+

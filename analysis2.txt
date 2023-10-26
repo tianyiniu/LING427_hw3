@@ -1,0 +1,648 @@
+Language Family: Guaicuruan
+	('Suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Northwest Caucasian
+	('Equal prefixing and suffixing', 'SOV'): 3
+
+Language Family: Greater West Bomberai
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 2
+
+Language Family: Abun
+	('Little affixation', 'SVO'): 1
+
+Language Family: Austronesian
+	('Little affixation', 'No dominant order'): 8
+	('Suffixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'SOV'): 4
+	('Equal prefixing and suffixing', 'SVO'): 6
+	('Little affixation', 'SVO'): 27
+	('Prefixing', 'SVO'): 16
+	('Equal prefixing and suffixing', 'VOS'): 3
+	('Suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 3
+	('Little affixation', 'VSO'): 12
+	('Little affixation', 'VOS'): 3
+	('Suffixing', 'SVO'): 5
+	('Prefixing', 'SOV'): 4
+	('Prefixing', 'No dominant order'): 2
+	('Suffixing', 'SOV'): 4
+	('Prefixing', 'VSO'): 2
+	('Prefixing', 'VOS'): 2
+	('Equal prefixing and suffixing', 'VSO'): 1
+
+Language Family: Arawakan
+	('Equal prefixing and suffixing', 'SVO'): 4
+	('Suffixing', 'SVO'): 3
+	('Suffixing', 'VOS'): 1
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'VSO'): 1
+	('Suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+
+Language Family: Eastern Sudanic
+	('Equal prefixing and suffixing', 'SVO'): 5
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Prefixing', 'SVO'): 2
+	('Suffixing', 'VSO'): 7
+	('Little affixation', 'No dominant order'): 1
+	('Suffixing', 'SVO'): 5
+	('Prefixing', 'VSO'): 4
+	('Equal prefixing and suffixing', 'VSO'): 1
+	('Suffixing', 'SOV'): 4
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'OVS'): 1
+
+Language Family: Keresan
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Niger-Congo
+	('Prefixing', 'SVO'): 34
+	('Little affixation', 'SVO'): 12
+	('Prefixing', 'No dominant order'): 2
+	('Suffixing', 'SVO'): 13
+	('Equal prefixing and suffixing', 'SVO'): 9
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 2
+
+Language Family: Pama-Nyungan
+	('Suffixing', 'No dominant order'): 14
+	('Suffixing', 'SOV'): 16
+	('Suffixing', 'SVO'): 6
+	('Little affixation', 'SOV'): 1
+	('Suffixing', 'VOS'): 1
+
+Language Family: Trans-New Guinea
+	('Suffixing', 'SOV'): 39
+	('Equal prefixing and suffixing', 'SOV'): 2
+
+Language Family: Ainu
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Sino-Tibetan
+	('Little affixation', 'SOV'): 11
+	('Suffixing', 'SOV'): 32
+	('Little affixation', 'SVO'): 4
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Prefixing', 'SVO'): 1
+	('Suffixing', 'SVO'): 1
+
+Language Family: Sepik
+	('Suffixing', 'SOV'): 3
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Mangarrayi-Maran
+	('Suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'OVS'): 1
+	('Prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Indo-European
+	('Suffixing', 'SVO'): 23
+	('Suffixing', 'No dominant order'): 7
+	('Suffixing', 'SOV'): 18
+	('Suffixing', 'VSO'): 2
+	('Equal prefixing and suffixing', 'VSO'): 1
+
+Language Family: Eskimo-Aleut
+	('Suffixing', 'SOV'): 2
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Pano-Tacanan
+	('Suffixing', 'No dominant order'): 3
+	('Suffixing', 'SOV'): 3
+	('Little affixation', 'SOV'): 1
+
+Language Family: Border
+	('Suffixing', 'SOV'): 1
+
+Language Family: Afro-Asiatic
+	('Suffixing', 'SOV'): 13
+	('Little affixation', 'SVO'): 4
+	('Suffixing', 'SVO'): 14
+	('Equal prefixing and suffixing', 'SVO'): 4
+	('Suffixing', 'VSO'): 3
+	('Suffixing', 'No dominant order'): 3
+	('Prefixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'VSO'): 2
+	('Prefixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Senagi
+	('Suffixing', 'SOV'): 1
+
+Language Family: Gunwinyguan
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Prefixing', 'No dominant order'): 1
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 1
+
+Language Family: Na-Dene
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Prefixing', 'SOV'): 4
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Cariban
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'OVS'): 2
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Torricelli
+	('Prefixing', 'SVO'): 4
+	('Prefixing', 'SOV'): 1
+	('Little affixation', 'SVO'): 2
+	('Suffixing', 'SVO'): 1
+
+Language Family: Nakh-Daghestanian
+	('Suffixing', 'SOV'): 9
+
+Language Family: Asmat-Kamrau Bay
+	('Suffixing', 'SOV'): 2
+
+Language Family: Barbacoan
+	('Suffixing', 'SOV'): 2
+
+Language Family: Aymaran
+	('Suffixing', 'SOV'): 1
+
+Language Family: Altaic
+	('Suffixing', 'SOV'): 23
+
+Language Family: Wandjiginy
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Central Sudanic
+	('Suffixing', 'SVO'): 5
+	('Prefixing', 'SVO'): 3
+	('Little affixation', 'SVO'): 3
+	('Equal prefixing and suffixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Prefixing', 'No dominant order'): 1
+	('Little affixation', 'No dominant order'): 1
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Mande
+	('Suffixing', 'SOV'): 2
+	('Little affixation', 'SOV'): 4
+
+Language Family: Tucanoan
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'OVS'): 1
+	('Suffixing', 'SOV'): 1
+
+Language Family: Skou
+	('Prefixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 1
+	('Little affixation', 'No dominant order'): 1
+
+Language Family: Basque
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Salishan
+	('Suffixing', 'VSO'): 2
+	('Prefixing', 'VSO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Saharan
+	('Suffixing', 'SOV'): 4
+
+Language Family: Berta
+	('Suffixing', 'SVO'): 1
+
+Language Family: Betoi
+	('Suffixing', 'SOV'): 1
+
+Language Family: Dravidian
+	('Suffixing', 'SOV'): 8
+
+Language Family: Siouan
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Prefixing', 'SOV'): 1
+	('Suffixing', 'SOV'): 1
+	('Little affixation', 'SOV'): 1
+
+Language Family: Solomons East Papuan
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 2
+
+Language Family: Algic
+	('Prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+	('Suffixing', 'No dominant order'): 2
+
+Language Family: Chibchan
+	('Suffixing', 'SOV'): 4
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Hmong-Mien
+	('Little affixation', 'SVO'): 3
+
+Language Family: Mangrida
+	('Prefixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Burushaski
+	('Suffixing', 'SOV'): 1
+
+Language Family: Uto-Aztecan
+	('Equal prefixing and suffixing', 'SOV'): 4
+	('Suffixing', 'No dominant order'): 4
+	('Suffixing', 'SOV'): 10
+	('Equal prefixing and suffixing', 'VSO'): 2
+	('Prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 2
+
+Language Family: Camsá
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Macro-Ge
+	('Little affixation', 'SOV'): 1
+
+Language Family: Cayuvava
+	('Prefixing', 'VOS'): 1
+
+Language Family: Iroquoian
+	('Prefixing', 'No dominant order'): 4
+
+Language Family: Oto-Manguean
+	('Prefixing', 'VSO'): 3
+	('Little affixation', 'VOS'): 1
+	('Equal prefixing and suffixing', 'VSO'): 8
+	('Suffixing', 'No dominant order'): 1
+	('Little affixation', 'VSO'): 1
+	('Prefixing', 'SVO'): 2
+	('Prefixing', 'VOS'): 1
+
+Language Family: Penutian
+	('Prefixing', 'VOS'): 1
+	('Suffixing', 'No dominant order'): 7
+	('Suffixing', 'VSO'): 1
+	('Suffixing', 'SOV'): 1
+	('Suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Uru-Chipaya
+	('Suffixing', 'SOV'): 1
+
+Language Family: Chitimacha
+	('Suffixing', 'SOV'): 1
+
+Language Family: Muskogean
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Suffixing', 'SOV'): 2
+
+Language Family: Hobitu-Cholon
+	('Suffixing', 'SOV'): 1
+
+Language Family: Mayan
+	('Suffixing', 'SVO'): 1
+	('Little affixation', 'SVO'): 1
+	('Prefixing', 'VSO'): 3
+	('Suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'VOS'): 1
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Austro-Asiatic
+	('Little affixation', 'SVO'): 8
+	('Little affixation', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 3
+	('Suffixing', 'VOS'): 1
+	('Prefixing', 'SVO'): 1
+
+Language Family: Chukotko-Kamchatkan
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 2
+
+Language Family: Chumash
+	('Equal prefixing and suffixing', 'VOS'): 1
+
+Language Family: Coahuiltecan
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Tupian
+	('Suffixing', 'SVO'): 1
+	('Prefixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'SOV'): 3
+	('Little affixation', 'SOV'): 2
+	('Prefixing', 'SOV'): 2
+
+Language Family: Oregon Coast
+	('Suffixing', 'No dominant order'): 2
+
+Language Family: Hokan
+	('Prefixing', 'SOV'): 3
+	('Suffixing', 'SOV'): 3
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Mirndi
+	('Suffixing', 'SOV'): 1
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Dogon
+	('Suffixing', 'SOV'): 2
+
+Language Family: Duna-Bogaya
+	('Little affixation', 'SOV'): 1
+
+Language Family: Uralic
+	('Suffixing', 'SOV'): 8
+	('Suffixing', 'SVO'): 4
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Choco
+	('Suffixing', 'SOV'): 1
+
+Language Family: Teberan-Pawaian
+	('Suffixing', 'SOV'): 2
+
+Language Family: Fur
+	('Suffixing', 'SOV'): 1
+
+Language Family: Garrwan
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Kartvelian
+	('Suffixing', 'SOV'): 1
+
+Language Family: Bunuban
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Gumuz
+	('Suffixing', 'SVO'): 1
+
+Language Family: Worrorran
+	('Prefixing', 'No dominant order'): 1
+	('Little affixation', 'OVS'): 1
+
+Language Family: Chonan
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Haida
+	('Suffixing', 'SOV'): 1
+
+Language Family: Hatim-Mansim
+	('Prefixing', 'SVO'): 1
+
+Language Family: Huavean
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Witotoan
+	('Suffixing', 'SOV'): 2
+
+Language Family: Nadahup
+	('Suffixing', 'SOV'): 1
+
+Language Family: Ijoid
+	('Suffixing', 'SOV'): 1
+
+Language Family: South Bird's Head
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Zaparoan
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Suffixing', 'SVO'): 1
+
+Language Family: Iranxe
+	('Suffixing', 'SOV'): 1
+
+Language Family: Japanese
+	('Suffixing', 'SOV'): 1
+
+Language Family: Cahuapanan
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Jivaroan
+	('Suffixing', 'SOV'): 1
+
+Language Family: Kxa
+	('Little affixation', 'SVO'): 1
+
+Language Family: Kadu
+	('Prefixing', 'SVO'): 1
+	('Prefixing', 'VSO'): 1
+
+Language Family: Kordofanian
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+	('Prefixing', 'SVO'): 2
+	('Prefixing', 'SOV'): 1
+
+Language Family: Tangkic
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SVO'): 1
+
+Language Family: Yeniseian
+	('Prefixing', 'SOV'): 1
+
+Language Family: Kolopom
+	('Little affixation', 'SOV'): 1
+
+Language Family: Kiowa-Tanoan
+	('Equal prefixing and suffixing', 'SOV'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Kariri
+	('Equal prefixing and suffixing', 'VOS'): 1
+
+Language Family: Koman
+	('Suffixing', 'SVO'): 1
+
+Language Family: Khoe-Kwadi
+	('Suffixing', 'No dominant order'): 1
+	('Suffixing', 'SOV'): 1
+
+Language Family: Korean
+	('Suffixing', 'SOV'): 1
+
+Language Family: Songhay
+	('Little affixation', 'SVO'): 1
+	('Little affixation', 'SOV'): 1
+
+Language Family: Kunama
+	('Suffixing', 'SOV'): 1
+
+Language Family: Kuot
+	('Equal prefixing and suffixing', 'VSO'): 1
+
+Language Family: Kutenai
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Kwaza
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Kwomtari
+	('Suffixing', 'SOV'): 1
+
+Language Family: Laal
+	('Suffixing', 'SVO'): 1
+
+Language Family: Tai-Kadai
+	('Little affixation', 'SVO'): 4
+
+Language Family: Leko
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Maban
+	('Suffixing', 'SOV'): 2
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Wakashan
+	('Little affixation', 'VSO'): 1
+
+Language Family: Araucanian
+	('Suffixing', 'SVO'): 1
+
+Language Family: Western Daly
+	('Little affixation', 'SOV'): 1
+
+Language Family: Iwaidjan
+	('Prefixing', 'SVO'): 1
+
+Language Family: Maybrat
+	('Prefixing', 'SVO'): 1
+
+Language Family: Eastern Trans-Fly
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: East Bird's Head
+	('Prefixing', 'SVO'): 1
+
+Language Family: Misumalpan
+	('Suffixing', 'SOV'): 1
+
+Language Family: Baibai-Fas
+	('Suffixing', 'SOV'): 1
+
+Language Family: Yale
+	('Suffixing', 'SOV'): 1
+
+Language Family: Nambikuaran
+	('Suffixing', 'SOV'): 1
+
+Language Family: South Bougainville
+	('Suffixing', 'SOV'): 1
+
+Language Family: other
+	('Little affixation', 'SVO'): 1
+
+Language Family: Tsimshianic
+	('Little affixation', 'VSO'): 1
+	('Suffixing', 'VSO'): 1
+
+Language Family: Nivkh
+	('Suffixing', 'SOV'): 1
+
+Language Family: South Andamanese
+	('Suffixing', 'SOV'): 1
+
+Language Family: Arauan
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Mura
+	('Suffixing', 'SOV'): 1
+
+Language Family: Mixe-Zoque
+	('Equal prefixing and suffixing', 'SVO'): 1
+	('Equal prefixing and suffixing', 'VOS'): 1
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Tarascan
+	('Suffixing', 'SVO'): 1
+
+Language Family: Páezan
+	('Suffixing', 'SOV'): 1
+
+Language Family: Quechuan
+	('Suffixing', 'SOV'): 2
+
+Language Family: Chimakuan
+	('Suffixing', 'VSO'): 1
+
+Language Family: North Halmaheran
+	('Prefixing', 'SVO'): 3
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Sandawe
+	('Suffixing', 'SOV'): 1
+
+Language Family: Yanomam
+	('Little affixation', 'SOV'): 1
+	('Suffixing', 'SOV'): 1
+
+Language Family: Sentanic
+	('Suffixing', 'SOV'): 1
+
+Language Family: Sulka
+	('Prefixing', 'SVO'): 1
+
+Language Family: Takelma
+	('Suffixing', 'SOV'): 1
+
+Language Family: Totonacan
+	('Prefixing', 'No dominant order'): 1
+	('Equal prefixing and suffixing', 'SVO'): 2
+
+Language Family: Ticuna
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Tiwian
+	('Prefixing', 'SVO'): 1
+
+Language Family: Tonkawa
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Trumai
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Tunica
+	('Suffixing', 'SOV'): 1
+
+Language Family: Urarina
+	('Suffixing', 'OVS'): 1
+
+Language Family: Wagiman
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Waorani
+	('Suffixing', 'SOV'): 1
+
+Language Family: Wappo-Yukian
+	('Suffixing', 'SOV'): 1
+
+Language Family: Yangmanic
+	('Equal prefixing and suffixing', 'No dominant order'): 1
+
+Language Family: Chapacura-Wanham
+	('Little affixation', 'VOS'): 1
+
+Language Family: Nyulnyulan
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Washo
+	('Suffixing', 'SOV'): 1
+
+Language Family: Caddoan
+	('Prefixing', 'No dominant order'): 1
+
+Language Family: Matacoan
+	('Equal prefixing and suffixing', 'SVO'): 1
+
+Language Family: Peba-Yaguan
+	('Suffixing', 'No dominant order'): 1
+
+Language Family: Yuchi
+	('Equal prefixing and suffixing', 'SOV'): 1
+
+Language Family: Yukaghir
+	('Suffixing', 'SOV'): 2
+
