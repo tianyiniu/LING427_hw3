@@ -1,0 +1,648 @@
+Language Family: Guaicuruan
+	('Suffixing', 'SVO'): ['abi']
+	('Equal prefixing and suffixing', 'SVO'): ['mcv']
+	('Prefixing', 'SVO'): ['pga']
+	('Equal prefixing and suffixing', 'No dominant order'): ['tob']
+
+Language Family: Northwest Caucasian
+	('Equal prefixing and suffixing', 'SOV'): ['abk', 'kab', 'uby']
+
+Language Family: Greater West Bomberai
+	('Equal prefixing and suffixing', 'SOV'): ['abv']
+	('Little affixation', 'SOV'): ['adg', 'mkj']
+
+Language Family: Abun
+	('Little affixation', 'SVO'): ['abu']
+
+Language Family: Austronesian
+	('Little affixation', 'No dominant order'): ['ace', 'bwc', 'dre', 'fij', 'min', 'sam', 'tin', 'tng']
+	('Suffixing', 'VSO'): ['agc']
+	('Equal prefixing and suffixing', 'SOV'): ['all', 'gmw', 'krr', 'tak']
+	('Equal prefixing and suffixing', 'SVO'): ['aln', 'jab', 'mna', 'plh', 'sio', 'sob']
+	('Little affixation', 'SVO'): ['aml', 'aro', 'bvi', 'fut', 'iaa', 'iba', 'kos', 'lmp', 'lou', 'mae', 'mng', 'mus', 'ngd', 'pul', 'rot', 'sis', 'son', 'sun', 'tab', 'teo', 'ttn', 'tgk', 'tla', 'uli', 'url', 'wol', 'xar']
+	('Prefixing', 'SVO'): ['amq', 'bnn', 'bik', 'erk', 'eno', 'irr', 'kel', 'lmh', 'len', 'lew', 'lon', 'kkv', 'nua', 'pms', 'pal', 'sak']
+	('Equal prefixing and suffixing', 'VOS'): ['anj', 'bto', 'krb']
+	('Suffixing', 'No dominant order'): ['bkr']
+	('Equal prefixing and suffixing', 'No dominant order'): ['btk', 'pai', 'ruk']
+	('Little affixation', 'VSO'): ['cha', 'haw', 'hoa', 'kkt', 'mmn', 'mao', 'niu', 'rap', 'tag', 'tah', 'tim', 'yap']
+	('Little affixation', 'VOS'): ['cem', 'lgu', 'mal']
+	('Suffixing', 'SVO'): ['hal', 'ind', 'mok', 'nak', 'poh']
+	('Prefixing', 'SOV'): ['idn', 'msn', 'sng', 'taw']
+	('Prefixing', 'No dominant order'): ['klv', 'tno']
+	('Suffixing', 'SOV'): ['mnm', 'mtu', 'slb', 'wed']
+	('Prefixing', 'VSO'): ['mwb', 'tbo']
+	('Prefixing', 'VOS'): ['nia', 'tuk']
+	('Equal prefixing and suffixing', 'VSO'): ['wlo']
+
+Language Family: Arawakan
+	('Equal prefixing and suffixing', 'SVO'): ['acg', 'apu', 'ara', 'mpr']
+	('Suffixing', 'SVO'): ['bae', 'plk', 'wrk']
+	('Suffixing', 'VOS'): ['baq']
+	('Suffixing', 'No dominant order'): ['cax']
+	('Suffixing', 'VSO'): ['goa']
+	('Suffixing', 'SOV'): ['pir']
+	('Equal prefixing and suffixing', 'SOV'): ['res', 'tar']
+
+Language Family: Eastern Sudanic
+	('Equal prefixing and suffixing', 'SVO'): ['acl', 'koe', 'lan', 'luo', 'shl']
+	('Equal prefixing and suffixing', 'No dominant order'): ['any']
+	('Prefixing', 'SVO'): ['bar', 'tmn']
+	('Suffixing', 'VSO'): ['did', 'ik', 'maj', 'mrl', 'pkt', 'so', 'ten']
+	('Little affixation', 'No dominant order'): ['din']
+	('Suffixing', 'SVO'): ['igs', 'mee', 'mur', 'sht', 'trm']
+	('Prefixing', 'VSO'): ['kmj', 'maa', 'tes', 'tna']
+	('Equal prefixing and suffixing', 'VSO'): [nan]
+	('Suffixing', 'SOV'): ['nar', 'nbd', 'nyi', 'tma']
+	('Suffixing', 'No dominant order'): ['nue']
+	('Suffixing', 'OVS'): ['par']
+
+Language Family: Keresan
+	('Equal prefixing and suffixing', 'No dominant order'): ['aco']
+	('Prefixing', 'No dominant order'): ['ksa']
+
+Language Family: Niger-Congo
+	('Prefixing', 'SVO'): ['adi', 'akn', 'bir', 'bdu', 'bsh', 'ewo', 'hnd', 'kba', 'kan', 'kik', 'kon', 'kwn', 'llm', 'lbu', 'luv', 'mtb', 'mba', 'mgk', 'ndb', 'ngo', 'nkn', 'nko', 'nza', 'obo', 'obg', 'pre', 'rny', 'san', 'shm', 'shn', 'swa', 'toz', 'xho', 'zul']
+	('Little affixation', 'SVO'): ['anu', 'duk', 'egn', 'gok', 'juk', 'kir', 'lnd', 'mbm', 'mum', 'nup', 'wlf', 'yor']
+	('Prefixing', 'No dominant order'): ['bbu', 'nym']
+	('Suffixing', 'SVO'): ['bmb', 'dgb', 'doy', 'fua', 'fye', 'gbb', 'grb', 'kni', 'kfe', 'mdo', 'moo', 'ndt', 'noo']
+	('Equal prefixing and suffixing', 'SVO'): ['dio', 'ewe', 'gbs', 'izi', 'mga', 'ndo', 'non', 'tne', 'zan']
+	('Suffixing', 'No dominant order'): ['dgo']
+	('Suffixing', 'SOV'): ['sup', 'tnn']
+
+Language Family: Pama-Nyungan
+	('Suffixing', 'No dominant order'): ['adn', 'dhr', 'djm', 'djr', 'djn', 'dyi', 'ggu', 'mdm', 'mrw', 'nha', 'ppi', 'rit', 'wrl', 'wrg']
+	('Suffixing', 'SOV'): ['aly', 'agt', 'abn', 'amp', 'diy', 'dja', 'djp', 'gug', 'guu', 'inn', 'kya', 'mny', 'uhi', 'wmu', 'yid', 'yuw']
+	('Suffixing', 'SVO'): ['bii', 'mrt', 'ngw', 'pkn', 'yin', 'yng']
+	('Little affixation', 'SOV'): ['thy']
+	('Suffixing', 'VOS'): ['wem']
+
+Language Family: Trans-New Guinea
+	('Suffixing', 'SOV'): ['aga', 'ame', 'awa', 'baa', 'dag', 'dni', 'eip', 'for', 'gds', 'gah', 'gln', 'hua', 'kew', 'kiw', 'kob', 'kmo', 'kta', 'kmb', 'krw', 'kmn', 'kmp', 'kyk', 'mpt', 'nab', 'rum', 'syu', 'sia', 'sro', 'sue', 'suk', 'trr', 'tau', 'una', 'usr', 'wah', 'wbn', 'wsk', 'yal', 'yar']
+	('Equal prefixing and suffixing', 'SOV'): ['ham', 'ygr']
+
+Language Family: Ainu
+	('Equal prefixing and suffixing', 'SOV'): ['ain']
+
+Language Family: Sino-Tibetan
+	('Little affixation', 'SOV'): ['akh', 'agm', 'baw', 'jng', 'lah', 'lai', 'lal', 'lep', 'mru', 'miz', 'raw']
+	('Suffixing', 'SOV'): ['ao', 'apt', 'ath', 'blt', 'brm', 'drm', 'deu', 'dig', 'gal', 'gar', 'gur', 'hay', 'kac', 'khg', 'kmh', 'knn', 'kok', 'lad', 'lot', 'mik', 'msg', 'ngt', 'nwd', 'new', 'noc', 'pum', 'prk', 'tam', 'tao', 'thn', 'tmo', 'tgl']
+	('Little affixation', 'SVO'): ['bai', 'cnt', 'ksg', 'kyl']
+	('Equal prefixing and suffixing', 'SOV'): ['chg']
+	('Prefixing', 'SVO'): ['kbw']
+	('Suffixing', 'SVO'): ['mnd']
+
+Language Family: Sepik
+	('Suffixing', 'SOV'): ['ala', 'awt', 'kwo']
+	('Equal prefixing and suffixing', 'SOV'): ['nam']
+
+Language Family: Mangarrayi-Maran
+	('Suffixing', 'No dominant order'): ['alw']
+	('Equal prefixing and suffixing', 'OVS'): ['myi']
+	('Prefixing', 'No dominant order'): ['mra']
+	('Equal prefixing and suffixing', 'SVO'): ['wrn']
+
+Language Family: Indo-European
+	('Suffixing', 'SVO'): ['alb', 'bre', 'bul', 'crn', 'cze', 'dsh', 'eng', 'fre', 'ice', 'ita', 'lat', 'lit', 'nor', 'pol', 'por', 'rom', 'rus', 'srd', 'scr', 'slo', 'spa', 'swe', 'ukr']
+	('Suffixing', 'No dominant order'): ['arm', 'blr', 'dom', 'dut', 'ger', 'grk', 'rwe']
+	('Suffixing', 'SOV'): ['arw', 'ass', 'bho', 'hin', 'krd', 'lmn', 'mhi', 'nep', 'oya', 'oss', 'pan', 'psh', 'prs', 'sav', 'sna', 'taj', 'urd', 'wak']
+	('Suffixing', 'VSO'): ['gae', 'wel']
+	('Equal prefixing and suffixing', 'VSO'): ['iri']
+
+Language Family: Eskimo-Aleut
+	('Suffixing', 'SOV'): ['ale', 'grw']
+	('Suffixing', 'No dominant order'): ['ypk']
+
+Language Family: Pano-Tacanan
+	('Suffixing', 'No dominant order'): ['amc', 'cbo', 'tac']
+	('Suffixing', 'SOV'): ['cas', 'mts', 'shk']
+	('Little affixation', 'SOV'): ['ese']
+
+Language Family: Border
+	('Suffixing', 'SOV'): ['amn']
+
+Language Family: Afro-Asiatic
+	('Suffixing', 'SOV'): ['amh', 'bej', 'dim', 'gim', 'irq', 'kem', 'naj', 'orh', 'sid', 'som', 'tgr', 'wly', 'zay']
+	('Little affixation', 'SVO'): ['anc', 'goe', 'hau', 'mup']
+	('Suffixing', 'SVO'): ['aeg', 'arg', 'brn', 'heb', 'knk', 'ker', 'lel', 'mlg', 'mrg', 'mbr', 'mgu', 'ngz', 'paa', 'ter']
+	('Equal prefixing and suffixing', 'SVO'): ['arq', 'bud', 'lag', 'per']
+	('Suffixing', 'VSO'): ['ams', 'gud', 'lmg']
+	('Suffixing', 'No dominant order'): ['asy', 'bln', 'miy']
+	('Prefixing', 'VSO'): ['bfg']
+	('Equal prefixing and suffixing', 'VSO'): ['bma', 'tsk']
+	('Prefixing', 'SVO'): ['brf', 'cop', 'uld']
+	('Equal prefixing and suffixing', 'SOV'): ['chh']
+	('Equal prefixing and suffixing', 'No dominant order'): ['meh']
+	('Prefixing', 'No dominant order'): ['tas']
+
+Language Family: Senagi
+	('Suffixing', 'SOV'): ['ang']
+
+Language Family: Gunwinyguan
+	('Equal prefixing and suffixing', 'No dominant order'): ['ann', 'nug']
+	('Prefixing', 'No dominant order'): ['bbw']
+	('Suffixing', 'No dominant order'): ['ngl']
+	('Suffixing', 'SOV'): ['nkb']
+
+Language Family: Na-Dene
+	('Equal prefixing and suffixing', 'SOV'): ['apw', 'tli']
+	('Prefixing', 'SOV'): ['chp', 'nav', 'src', 'sla']
+	('Prefixing', 'No dominant order'): ['hup']
+
+Language Family: Cariban
+	('Equal prefixing and suffixing', 'No dominant order'): ['apl']
+	('Equal prefixing and suffixing', 'SOV'): ['car', 'cde']
+	('Equal prefixing and suffixing', 'OVS'): ['hix', 'tir']
+	('Suffixing', 'No dominant order'): ['mac']
+
+Language Family: Torricelli
+	('Prefixing', 'SVO'): ['arp', 'au', 'aoj', 'wal']
+	('Prefixing', 'SOV'): ['kmz']
+	('Little affixation', 'SVO'): ['xbi', 'urt']
+	('Suffixing', 'SVO'): ['olo']
+
+Language Family: Nakh-Daghestanian
+	('Suffixing', 'SOV'): ['arc', 'ava', 'chc', 'hzb', 'lez', 'rut', 'tsz', 'ttu', 'udi']
+
+Language Family: Asmat-Kamrau Bay
+	('Suffixing', 'SOV'): ['asm', 'kmr']
+
+Language Family: Barbacoan
+	('Suffixing', 'SOV'): ['awp', 'cay']
+
+Language Family: Aymaran
+	('Suffixing', 'SOV'): ['aym']
+
+Language Family: Altaic
+	('Suffixing', 'SOV'): ['azi', 'aze', 'but', 'chv', 'dgr', 'evn', 'eve', 'krc', 'kkp', 'khl', 'kha', 'mnc', 'mgg', 'mog', 'mkh', 'nog', 'sta', 'tvo', 'tur', 'tuv', 'uyg', 'uzb', 'ykt']
+
+Language Family: Wandjiginy
+	('Equal prefixing and suffixing', 'No dominant order'): ['bac']
+
+Language Family: Central Sudanic
+	('Suffixing', 'SVO'): ['bag', 'kar', 'ken', 'mby', 'ngm']
+	('Prefixing', 'SVO'): ['bgr', 'bgo', 'mmv']
+	('Little affixation', 'SVO'): ['bka', 'gul', 'jmo']
+	('Equal prefixing and suffixing', 'SVO'): ['kre', 'mbt', 'yul']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ldu', 'nti']
+	('Prefixing', 'No dominant order'): ['lug']
+	('Little affixation', 'No dominant order'): ['mad']
+	('Suffixing', 'No dominant order'): ['mou']
+
+Language Family: Mande
+	('Suffixing', 'SOV'): ['bam', 'mde']
+	('Little affixation', 'SOV'): ['man', 'mka', 'vai', 'xas']
+
+Language Family: Tucanoan
+	('Suffixing', 'No dominant order'): ['brs']
+	('Suffixing', 'OVS'): ['cub']
+	('Suffixing', 'SOV'): ['des']
+
+Language Family: Skou
+	('Prefixing', 'SOV'): ['brp']
+	('Little affixation', 'SOV'): ['isa']
+	('Little affixation', 'No dominant order'): ['pok']
+
+Language Family: Basque
+	('Equal prefixing and suffixing', 'SOV'): ['bsq']
+
+Language Family: Salishan
+	('Suffixing', 'VSO'): ['bco', 'squ']
+	('Prefixing', 'VSO'): ['kls']
+	('Equal prefixing and suffixing', 'No dominant order'): ['shu']
+
+Language Family: Saharan
+	('Suffixing', 'SOV'): ['zag', 'kbu', 'knr', 'tbu']
+
+Language Family: Berta
+	('Suffixing', 'SVO'): ['ber']
+
+Language Family: Betoi
+	('Suffixing', 'SOV'): ['bti']
+
+Language Family: Dravidian
+	('Suffixing', 'SOV'): ['bkb', 'gon', 'knd', 'kol', 'koy', 'kuv', 'tml', 'tel']
+
+Language Family: Siouan
+	('Equal prefixing and suffixing', 'SOV'): ['blx', 'tte']
+	('Prefixing', 'SOV'): ['lkt']
+	('Suffixing', 'SOV'): ['mdn']
+	('Little affixation', 'SOV'): ['osa']
+
+Language Family: Solomons East Papuan
+	('Suffixing', 'No dominant order'): ['bil']
+	('Suffixing', 'SOV'): ['lav', 'svs']
+
+Language Family: Algic
+	('Prefixing', 'No dominant order'): ['bla']
+	('Equal prefixing and suffixing', 'No dominant order'): ['cre', 'men']
+	('Suffixing', 'No dominant order'): ['wiy', 'yur']
+
+Language Family: Chibchan
+	('Suffixing', 'SOV'): ['bri', 'ika', 'msc', 'trb']
+	('Equal prefixing and suffixing', 'SOV'): ['ram']
+
+Language Family: Hmong-Mien
+	('Little affixation', 'SVO'): ['pnu', 'hmo', 'mie']
+
+Language Family: Mangrida
+	('Prefixing', 'SOV'): ['bua']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ndj']
+
+Language Family: Burushaski
+	('Suffixing', 'SOV'): ['bur']
+
+Language Family: Uto-Aztecan
+	('Equal prefixing and suffixing', 'SOV'): ['cah', 'cup', 'hui', 'nev']
+	('Suffixing', 'No dominant order'): ['cmh', 'kws', 'lui', 'ute']
+	('Suffixing', 'SOV'): ['cmn', 'eud', 'hop', 'mno', 'pno', 'pba', 'sho', 'twe', 'tsh', 'yaq']
+	('Equal prefixing and suffixing', 'VSO'): ['nhh', 'tpn']
+	('Prefixing', 'SVO'): ['nhm']
+	('Equal prefixing and suffixing', 'SVO'): ['nht']
+	('Equal prefixing and suffixing', 'No dominant order'): ['ood', 'pip']
+
+Language Family: Camsá
+	('Prefixing', 'No dominant order'): ['cam']
+
+Language Family: Macro-Ge
+	('Little affixation', 'SOV'): ['cnl']
+
+Language Family: Cayuvava
+	('Prefixing', 'VOS'): ['cyv']
+
+Language Family: Iroquoian
+	('Prefixing', 'No dominant order'): ['che', 'moh', 'ond', 'tus']
+
+Language Family: Oto-Manguean
+	('Prefixing', 'VSO'): ['ccm', 'mxc', 'mxp']
+	('Little affixation', 'VOS'): ['cle']
+	('Equal prefixing and suffixing', 'VSO'): ['cpl', 'chq', 'mxj', 'tlp', 'tri', 'zai', 'zap', 'zzo']
+	('Suffixing', 'No dominant order'): ['mzh']
+	('Little affixation', 'VSO'): ['mxo']
+	('Prefixing', 'SVO'): ['ocu', 'pam']
+	('Prefixing', 'VOS'): ['otm']
+
+Language Family: Penutian
+	('Prefixing', 'VOS'): ['ckl']
+	('Suffixing', 'No dominant order'): ['klm', 'mss', 'ptw', 'wik', 'win', 'ywl', 'yok']
+	('Suffixing', 'VSO'): ['shp']
+	('Suffixing', 'SOV'): ['mne']
+	('Suffixing', 'SVO'): ['mut']
+	('Equal prefixing and suffixing', 'No dominant order'): ['nez']
+
+Language Family: Uru-Chipaya
+	('Suffixing', 'SOV'): ['cpy']
+
+Language Family: Chitimacha
+	('Suffixing', 'SOV'): ['ctm']
+
+Language Family: Muskogean
+	('Equal prefixing and suffixing', 'SOV'): ['cct', 'koa']
+	('Suffixing', 'SOV'): ['mki', 'smn']
+
+Language Family: Hobitu-Cholon
+	('Suffixing', 'SOV'): ['cln']
+
+Language Family: Mayan
+	('Suffixing', 'SVO'): ['cmy']
+	('Little affixation', 'SVO'): ['htc']
+	('Prefixing', 'VSO'): ['jak', 'mam', 'qum']
+	('Suffixing', 'No dominant order'): ['lac']
+	('Equal prefixing and suffixing', 'VOS'): ['tzo']
+	('Prefixing', 'No dominant order'): ['tzu']
+
+Language Family: Austro-Asiatic
+	('Little affixation', 'SVO'): ['chr', 'khs', 'khm', 'kmu', 'mon', 'sed', 'sti', 'vie']
+	('Little affixation', 'No dominant order'): ['khr']
+	('Suffixing', 'SOV'): ['kku', 'mun', 'stl']
+	('Suffixing', 'VOS'): ['nca']
+	('Prefixing', 'SVO'): ['tmr']
+
+Language Family: Chukotko-Kamchatkan
+	('Suffixing', 'No dominant order'): ['chk']
+	('Suffixing', 'SOV'): ['ite', 'kry']
+
+Language Family: Chumash
+	('Equal prefixing and suffixing', 'VOS'): ['cba']
+
+Language Family: Coahuiltecan
+	('Equal prefixing and suffixing', 'SOV'): ['coa']
+
+Language Family: Tupian
+	('Suffixing', 'SVO'): ['coc']
+	('Prefixing', 'SVO'): ['gua']
+	('Equal prefixing and suffixing', 'SOV'): ['kma', 'tpt', 'eme']
+	('Little affixation', 'SOV'): ['kaa', 'mek']
+	('Prefixing', 'SOV'): ['srn', 'urk']
+
+Language Family: Oregon Coast
+	('Suffixing', 'No dominant order'): ['coo', 'siu']
+
+Language Family: Hokan
+	('Prefixing', 'SOV'): ['die', 'ser', 'tja']
+	('Suffixing', 'SOV'): ['hlp', 'pme', 'pso']
+	('Equal prefixing and suffixing', 'No dominant order'): ['krk']
+	('Equal prefixing and suffixing', 'SOV'): ['klw', 'mar']
+	('Equal prefixing and suffixing', 'SVO'): ['sal']
+
+Language Family: Mirndi
+	('Suffixing', 'SOV'): ['dji']
+	('Suffixing', 'No dominant order'): ['wam']
+
+Language Family: Dogon
+	('Suffixing', 'SOV'): ['dds', 'jms']
+
+Language Family: Duna-Bogaya
+	('Little affixation', 'SOV'): ['dun']
+
+Language Family: Uralic
+	('Suffixing', 'SOV'): ['ene', 'kms', 'kty', 'mns', 'ntu', 'nga', 'skp', 'udm']
+	('Suffixing', 'SVO'): ['est', 'fin', 'moe', 'sno']
+	('Suffixing', 'No dominant order'): ['hun']
+
+Language Family: Choco
+	('Suffixing', 'SOV'): ['epe']
+
+Language Family: Teberan-Pawaian
+	('Suffixing', 'SOV'): ['pdp', 'paw']
+
+Language Family: Fur
+	('Suffixing', 'SOV'): ['fur']
+
+Language Family: Garrwan
+	('Suffixing', 'No dominant order'): ['grr']
+
+Language Family: Kartvelian
+	('Suffixing', 'SOV'): ['geo']
+
+Language Family: Bunuban
+	('Prefixing', 'No dominant order'): ['goo']
+
+Language Family: Gumuz
+	('Suffixing', 'SVO'): ['gmz']
+
+Language Family: Worrorran
+	('Prefixing', 'No dominant order'): ['gnn']
+	('Little affixation', 'OVS'): ['ung']
+
+Language Family: Chonan
+	('Suffixing', 'No dominant order'): ['gku']
+
+Language Family: Haida
+	('Suffixing', 'SOV'): ['hai']
+
+Language Family: Hatim-Mansim
+	('Prefixing', 'SVO'): ['hat']
+
+Language Family: Huavean
+	('Equal prefixing and suffixing', 'SVO'): ['hve']
+
+Language Family: Witotoan
+	('Suffixing', 'SOV'): ['hmi', 'hum']
+
+Language Family: Nadahup
+	('Suffixing', 'SOV'): ['hpd']
+
+Language Family: Ijoid
+	('Suffixing', 'SOV'): ['ijo']
+
+Language Family: South Bird's Head
+	('Equal prefixing and suffixing', 'No dominant order'): ['ina']
+
+Language Family: Zaparoan
+	('Equal prefixing and suffixing', 'SVO'): ['iqu']
+	('Suffixing', 'SVO'): ['zpr']
+
+Language Family: Iranxe
+	('Suffixing', 'SOV'): ['irx']
+
+Language Family: Japanese
+	('Suffixing', 'SOV'): ['jpn']
+
+Language Family: Cahuapanan
+	('Suffixing', 'No dominant order'): ['jeb']
+
+Language Family: Jivaroan
+	('Suffixing', 'SOV'): ['jiv']
+
+Language Family: Kxa
+	('Little affixation', 'SVO'): ['juh']
+
+Language Family: Kadu
+	('Prefixing', 'SVO'): ['ktc']
+	('Prefixing', 'VSO'): ['kro']
+
+Language Family: Kordofanian
+	('Equal prefixing and suffixing', 'SVO'): ['ktl']
+	('Equal prefixing and suffixing', 'No dominant order'): ['msk']
+	('Prefixing', 'SVO'): ['mro', 'otr']
+	('Prefixing', 'SOV'): ['ras']
+
+Language Family: Tangkic
+	('Suffixing', 'No dominant order'): ['kay']
+	('Suffixing', 'SVO'): ['yuk']
+
+Language Family: Yeniseian
+	('Prefixing', 'SOV'): ['ket']
+
+Language Family: Kolopom
+	('Little affixation', 'SOV'): ['kim']
+
+Language Family: Kiowa-Tanoan
+	('Equal prefixing and suffixing', 'SOV'): ['kio']
+	('Equal prefixing and suffixing', 'No dominant order'): ['twn']
+
+Language Family: Kariri
+	('Equal prefixing and suffixing', 'VOS'): ['kri']
+
+Language Family: Koman
+	('Suffixing', 'SVO'): ['kom']
+
+Language Family: Khoe-Kwadi
+	('Suffixing', 'No dominant order'): ['krn']
+	('Suffixing', 'SOV'): ['kho']
+
+Language Family: Korean
+	('Suffixing', 'SOV'): ['kor']
+
+Language Family: Songhay
+	('Little affixation', 'SVO'): ['kch']
+	('Little affixation', 'SOV'): ['kse']
+
+Language Family: Kunama
+	('Suffixing', 'SOV'): ['knm']
+
+Language Family: Kuot
+	('Equal prefixing and suffixing', 'VSO'): ['kuo']
+
+Language Family: Kutenai
+	('Suffixing', 'No dominant order'): ['kut']
+
+Language Family: Kwaza
+	('Suffixing', 'No dominant order'): ['kwz']
+
+Language Family: Kwomtari
+	('Suffixing', 'SOV'): ['kwt']
+
+Language Family: Laal
+	('Suffixing', 'SVO'): ['laa']
+
+Language Family: Tai-Kadai
+	('Little affixation', 'SVO'): ['lao', 'nun', 'tha', 'zhn']
+
+Language Family: Leko
+	('Suffixing', 'No dominant order'): ['lec']
+
+Language Family: Maban
+	('Suffixing', 'SOV'): ['mab', 'msl']
+	('Equal prefixing and suffixing', 'SOV'): ['run']
+
+Language Family: Wakashan
+	('Little affixation', 'VSO'): ['mak']
+
+Language Family: Araucanian
+	('Suffixing', 'SVO'): ['map']
+
+Language Family: Western Daly
+	('Little affixation', 'SOV'): ['mku']
+
+Language Family: Iwaidjan
+	('Prefixing', 'SVO'): ['mau']
+
+Language Family: Maybrat
+	('Prefixing', 'SVO'): ['may']
+
+Language Family: Eastern Trans-Fly
+	('Equal prefixing and suffixing', 'SOV'): ['mer']
+
+Language Family: East Bird's Head
+	('Prefixing', 'SVO'): ['mea']
+
+Language Family: Misumalpan
+	('Suffixing', 'SOV'): ['mis']
+
+Language Family: Baibai-Fas
+	('Suffixing', 'SOV'): ['fqs']
+
+Language Family: Yale
+	('Suffixing', 'SOV'): ['nag']
+
+Language Family: Nambikuaran
+	('Suffixing', 'SOV'): ['nmb']
+
+Language Family: South Bougainville
+	('Suffixing', 'SOV'): ['nas']
+
+Language Family: other
+	('Little affixation', 'SVO'): ['ndy']
+
+Language Family: Tsimshianic
+	('Little affixation', 'VSO'): ['nsg']
+	('Suffixing', 'VSO'): ['tsi']
+
+Language Family: Nivkh
+	('Suffixing', 'SOV'): ['niv']
+
+Language Family: South Andamanese
+	('Suffixing', 'SOV'): ['ong']
+
+Language Family: Arauan
+	('Equal prefixing and suffixing', 'SVO'): ['pau']
+
+Language Family: Mura
+	('Suffixing', 'SOV'): ['prh']
+
+Language Family: Mixe-Zoque
+	('Equal prefixing and suffixing', 'SVO'): ['zqs']
+	('Equal prefixing and suffixing', 'VOS'): ['zqc']
+	('Equal prefixing and suffixing', 'No dominant order'): ['zqo']
+
+Language Family: Tarascan
+	('Suffixing', 'SVO'): ['pur']
+
+Language Family: Páezan
+	('Suffixing', 'SOV'): ['pae']
+
+Language Family: Quechuan
+	('Suffixing', 'SOV'): ['qhu', 'qim']
+
+Language Family: Chimakuan
+	('Suffixing', 'VSO'): ['qui']
+
+Language Family: North Halmaheran
+	('Prefixing', 'SVO'): ['sah', 'tid', 'wma']
+	('Equal prefixing and suffixing', 'SOV'): ['tlo']
+
+Language Family: Sandawe
+	('Suffixing', 'SOV'): ['sdw']
+
+Language Family: Yanomam
+	('Little affixation', 'SOV'): ['snm']
+	('Suffixing', 'SOV'): ['shi']
+
+Language Family: Sentanic
+	('Suffixing', 'SOV'): ['snt']
+
+Language Family: Sulka
+	('Prefixing', 'SVO'): ['sul']
+
+Language Family: Takelma
+	('Suffixing', 'SOV'): ['tkl']
+
+Language Family: Totonacan
+	('Prefixing', 'No dominant order'): ['tee']
+	('Equal prefixing and suffixing', 'SVO'): ['tep', 'txj']
+
+Language Family: Ticuna
+	('Equal prefixing and suffixing', 'No dominant order'): ['tic']
+
+Language Family: Tiwian
+	('Prefixing', 'SVO'): ['tiw']
+
+Language Family: Tonkawa
+	('Suffixing', 'No dominant order'): ['ton']
+
+Language Family: Trumai
+	('Suffixing', 'No dominant order'): ['tru']
+
+Language Family: Tunica
+	('Suffixing', 'SOV'): ['tun']
+
+Language Family: Urarina
+	('Suffixing', 'OVS'): ['urn']
+
+Language Family: Wagiman
+	('Equal prefixing and suffixing', 'SOV'): ['wag']
+
+Language Family: Waorani
+	('Suffixing', 'SOV'): ['wao']
+
+Language Family: Wappo-Yukian
+	('Suffixing', 'SOV'): ['wap']
+
+Language Family: Yangmanic
+	('Equal prefixing and suffixing', 'No dominant order'): ['wrd']
+
+Language Family: Chapacura-Wanham
+	('Little affixation', 'VOS'): ['war']
+
+Language Family: Nyulnyulan
+	('Prefixing', 'No dominant order'): ['wrw']
+
+Language Family: Washo
+	('Suffixing', 'SOV'): ['was']
+
+Language Family: Caddoan
+	('Prefixing', 'No dominant order'): ['wic']
+
+Language Family: Matacoan
+	('Equal prefixing and suffixing', 'SVO'): ['wch']
+
+Language Family: Peba-Yaguan
+	('Suffixing', 'No dominant order'): ['yag']
+
+Language Family: Yuchi
+	('Equal prefixing and suffixing', 'SOV'): ['yuc']
+
+Language Family: Yukaghir
+	('Suffixing', 'SOV'): ['yko', 'ytu']
+
